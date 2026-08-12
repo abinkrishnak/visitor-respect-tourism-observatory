@@ -191,6 +191,14 @@ st.caption(
     "show whether tourism outcomes are good or bad."
 )
 
+if selected_years[0] <= 2022 and selected_years[1] >= 2020:
+    st.warning(
+        "COVID-19 interpretation note: year-on-year percentages during and "
+        "immediately after border restrictions can be unusually large because "
+        "the comparison month had very low arrivals. Do not interpret these "
+        "values as normal tourism growth."
+    )
+
 st.info(
     "How to read this chart: arrivals are entries/visits recorded by the "
     "tourism system. They are not necessarily unique people, and place of "
