@@ -1,0 +1,11 @@
+{
+  "source_table_id": "M550001",
+  "source_agency": "Singapore Tourism Board via SingStat",
+  "series_used": "Total International Visitor Arrivals",
+  "record_count": 222,
+  "start_date": "2008-01-01",
+  "end_date": "2026-06-01",
+  "latest_arrivals": 1184526,
+  "missing_arrivals": 0,
+  "duplicate_dates": 0
+}
