@@ -109,8 +109,22 @@ with metric_3:
         ),
     )
 
+available_years = sorted(df["year"].unique())
+
+selected_years = st.slider(
+    "Choose a year range",
+    min_value=int(min(available_years)),
+    max_value=int(max(available_years)),
+    value=(max(int(min(available_years)), 2019), int(max(available_years))),
+    help="Use this to focus on a period. The full dataset remains available.",
+)
+
+filtered_df = df[
+    df["year"].between(selected_years[0], selected_years[1])
+].copy()
+
 chart = px.line(
-    df,
+    filtered_df,
     x="date",
     y="arrivals",
     title="Monthly International Visitor Arrivals in Singapore",
@@ -136,6 +150,46 @@ chart.update_layout(
 )
 
 st.plotly_chart(chart, use_container_width=True)
+
+st.subheader("Year-on-Year Change in Visitor Arrivals")
+
+yoy_df = filtered_df.dropna(subset=["arrivals_yoy_pct"]).copy()
+
+yoy_chart = px.bar(
+    yoy_df,
+    x="date",
+    y="arrivals_yoy_pct",
+    title="Monthly Change Compared with the Same Month in the Previous Year",
+    labels={
+        "date": "Month",
+        "arrivals_yoy_pct": "Year-on-year change (%)",
+    },
+    color="arrivals_yoy_pct",
+    color_continuous_scale=["#B91C1C", "#F59E0B", "#0F766E"],
+    color_continuous_midpoint=0,
+)
+
+yoy_chart.update_traces(
+    hovertemplate=(
+        "<b>%{x|%B %Y}</b><br>"
+        "Year-on-year change: %{y:+.1f}%<extra></extra>"
+    )
+)
+
+yoy_chart.update_layout(
+    hovermode="x unified",
+    title_x=0,
+    margin=dict(l=10, r=10, t=60, b=10),
+    coloraxis_showscale=False,
+)
+
+st.plotly_chart(yoy_chart, use_container_width=True)
+
+st.caption(
+    "Interpret carefully: a negative year-on-year change means arrivals were "
+    "lower than the same month in the previous year. It does not by itself "
+    "show whether tourism outcomes are good or bad."
+)
 
 st.info(
     "How to read this chart: arrivals are entries/visits recorded by the "
