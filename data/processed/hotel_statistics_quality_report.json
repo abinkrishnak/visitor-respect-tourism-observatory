@@ -1,0 +1,15 @@
+{
+  "source_table_id": "M550111",
+  "source_agency": "Singapore Tourism Board via SingStat",
+  "frequency": "Annual",
+  "record_count": 18,
+  "start_year": 2008,
+  "end_year": 2025,
+  "missing_values": 0,
+  "duplicate_years": 0,
+  "latest_year": 2025,
+  "latest_occupancy_rate_pct": 82.0,
+  "latest_average_room_rate_sgd": 273.4,
+  "latest_room_revenue_thousand_sgd": 5362705.7,
+  "interpretation_note": "Figures refer to gazetted hotels. Hotel indicators do not measure resident wellbeing, site-level crowding, visitor behaviour, or tourism sustainability on their own."
+}

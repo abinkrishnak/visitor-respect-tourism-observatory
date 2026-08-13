@@ -19,6 +19,7 @@ AGGREGATE_SERIES = {
     "West Asia",
     "Europe",
     "North America",
+    "Americas",
     "Oceania",
     "Africa",
 }

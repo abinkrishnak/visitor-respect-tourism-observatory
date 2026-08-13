@@ -6,7 +6,6 @@ date,place_of_residence,arrivals,year,month,month_name
 2008-01-01,Japan,52973.0,2008,1,January
 2008-01-01,South Korea,50432.0,2008,1,January
 2008-01-01,United Kingdom,47618.0,2008,1,January
-2008-01-01,Americas,47540.0,2008,1,January
 2008-01-01,Malaysia,45984.0,2008,1,January
 2008-01-01,USA,36447.0,2008,1,January
 2008-01-01,Thailand,25851.0,2008,1,January
@@ -50,7 +49,6 @@ date,place_of_residence,arrivals,year,month,month_name
 2008-02-01,Malaysia,50318.0,2008,2,February
 2008-02-01,India,49078.0,2008,2,February
 2008-02-01,Japan,47449.0,2008,2,February
-2008-02-01,Americas,42718.0,2008,2,February
 2008-02-01,South Korea,40998.0,2008,2,February
 2008-02-01,USA,33006.0,2008,2,February
 2008-02-01,Philippines,28674.0,2008,2,February
@@ -94,7 +92,6 @@ date,place_of_residence,arrivals,year,month,month_name
 2008-03-01,India,57776.0,2008,3,March
 2008-03-01,Japan,57364.0,2008,3,March
 2008-03-01,Malaysia,56359.0,2008,3,March
-2008-03-01,Americas,50240.0,2008,3,March
 2008-03-01,South Korea,39683.0,2008,3,March
 2008-03-01,USA,39004.0,2008,3,March
 2008-03-01,Philippines,37117.0,2008,3,March
@@ -137,7 +134,6 @@ date,place_of_residence,arrivals,year,month,month_name
 2008-04-01,India,62908.0,2008,4,April
 2008-04-01,Malaysia,53749.0,2008,4,April
 2008-04-01,United Kingdom,41655.0,2008,4,April
-2008-04-01,Americas,39477.0,2008,4,April
 2008-04-01,Philippines,39347.0,2008,4,April
 2008-04-01,Japan,36301.0,2008,4,April
 2008-04-01,Thailand,36226.0,2008,4,April
@@ -182,7 +178,6 @@ date,place_of_residence,arrivals,year,month,month_name
 2008-05-01,Malaysia,52115.0,2008,5,May
 2008-05-01,Japan,42382.0,2008,5,May
 2008-05-01,Philippines,41872.0,2008,5,May
-2008-05-01,Americas,38871.0,2008,5,May
 2008-05-01,South Korea,36412.0,2008,5,May
 2008-05-01,USA,30862.0,2008,5,May
 2008-05-01,Thailand,30487.0,2008,5,May
@@ -224,7 +219,6 @@ date,place_of_residence,arrivals,year,month,month_name
 2008-06-01,Australia,73802.0,2008,6,June
 2008-06-01,China,70565.0,2008,6,June
 2008-06-01,Malaysia,53217.0,2008,6,June
-2008-06-01,Americas,42579.0,2008,6,June
 2008-06-01,Japan,40879.0,2008,6,June
 2008-06-01,South Korea,35998.0,2008,6,June
 2008-06-01,USA,35304.0,2008,6,June
@@ -267,7 +261,6 @@ date,place_of_residence,arrivals,year,month,month_name
 2008-07-01,China,105528.0,2008,7,July
 2008-07-01,Australia,79776.0,2008,7,July
 2008-07-01,India,63373.0,2008,7,July
-2008-07-01,Americas,48591.0,2008,7,July
 2008-07-01,Japan,47659.0,2008,7,July
 2008-07-01,Malaysia,46968.0,2008,7,July
 2008-07-01,South Korea,39614.0,2008,7,July
@@ -314,7 +307,6 @@ date,place_of_residence,arrivals,year,month,month_name
 2008-08-01,Japan,53699.0,2008,8,August
 2008-08-01,Malaysia,44118.0,2008,8,August
 2008-08-01,South Korea,42338.0,2008,8,August
-2008-08-01,Americas,40453.0,2008,8,August
 2008-08-01,United Kingdom,39102.0,2008,8,August
 2008-08-01,Philippines,34984.0,2008,8,August
 2008-08-01,USA,32440.0,2008,8,August
@@ -359,7 +351,6 @@ date,place_of_residence,arrivals,year,month,month_name
 2008-09-01,Malaysia,44892.0,2008,9,September
 2008-09-01,Philippines,34314.0,2008,9,September
 2008-09-01,United Kingdom,34252.0,2008,9,September
-2008-09-01,Americas,31823.0,2008,9,September
 2008-09-01,South Korea,25914.0,2008,9,September
 2008-09-01,USA,25160.0,2008,9,September
 2008-09-01,Thailand,24530.0,2008,9,September
@@ -401,7 +392,6 @@ date,place_of_residence,arrivals,year,month,month_name
 2008-10-01,India,67510.0,2008,10,October
 2008-10-01,Malaysia,54973.0,2008,10,October
 2008-10-01,Japan,47736.0,2008,10,October
-2008-10-01,Americas,41640.0,2008,10,October
 2008-10-01,United Kingdom,39729.0,2008,10,October
 2008-10-01,Philippines,38577.0,2008,10,October
 2008-10-01,Thailand,34193.0,2008,10,October
@@ -446,7 +436,6 @@ date,place_of_residence,arrivals,year,month,month_name
 2008-11-01,India,56927.0,2008,11,November
 2008-11-01,Japan,48225.0,2008,11,November
 2008-11-01,United Kingdom,43751.0,2008,11,November
-2008-11-01,Americas,40132.0,2008,11,November
 2008-11-01,Philippines,34208.0,2008,11,November
 2008-11-01,USA,30713.0,2008,11,November
 2008-11-01,South Korea,24445.0,2008,11,November
@@ -490,7 +479,6 @@ date,place_of_residence,arrivals,year,month,month_name
 2008-12-01,India,62641.0,2008,12,December
 2008-12-01,Japan,47602.0,2008,12,December
 2008-12-01,United Kingdom,43612.0,2008,12,December
-2008-12-01,Americas,41347.0,2008,12,December
 2008-12-01,Philippines,37367.0,2008,12,December
 2008-12-01,USA,31577.0,2008,12,December
 2008-12-01,Thailand,24747.0,2008,12,December
@@ -534,7 +522,6 @@ date,place_of_residence,arrivals,year,month,month_name
 2009-01-01,Malaysia,44243.0,2009,1,January
 2009-01-01,United Kingdom,41545.0,2009,1,January
 2009-01-01,Japan,38382.0,2009,1,January
-2009-01-01,Americas,38044.0,2009,1,January
 2009-01-01,USA,28845.0,2009,1,January
 2009-01-01,Philippines,26249.0,2009,1,January
 2009-01-01,South Korea,25516.0,2009,1,January
@@ -578,7 +565,6 @@ date,place_of_residence,arrivals,year,month,month_name
 2009-02-01,Malaysia,45726.0,2009,2,February
 2009-02-01,Japan,42807.0,2009,2,February
 2009-02-01,India,42275.0,2009,2,February
-2009-02-01,Americas,35014.0,2009,2,February
 2009-02-01,Philippines,28911.0,2009,2,February
 2009-02-01,South Korea,27387.0,2009,2,February
 2009-02-01,USA,26724.0,2009,2,February
@@ -622,7 +608,6 @@ date,place_of_residence,arrivals,year,month,month_name
 2009-03-01,United Kingdom,52839.0,2009,3,March
 2009-03-01,Japan,46797.0,2009,3,March
 2009-03-01,India,46779.0,2009,3,March
-2009-03-01,Americas,41421.0,2009,3,March
 2009-03-01,Philippines,35718.0,2009,3,March
 2009-03-01,USA,32022.0,2009,3,March
 2009-03-01,Thailand,28055.0,2009,3,March
@@ -666,7 +651,6 @@ date,place_of_residence,arrivals,year,month,month_name
 2009-04-01,Malaysia,51299.0,2009,4,April
 2009-04-01,Philippines,44622.0,2009,4,April
 2009-04-01,United Kingdom,41624.0,2009,4,April
-2009-04-01,Americas,36347.0,2009,4,April
 2009-04-01,Thailand,32151.0,2009,4,April
 2009-04-01,Japan,31633.0,2009,4,April
 2009-04-01,Hong Kong SAR,28587.0,2009,4,April
@@ -709,7 +693,6 @@ date,place_of_residence,arrivals,year,month,month_name
 2009-05-01,Malaysia,54995.0,2009,5,May
 2009-05-01,China,52058.0,2009,5,May
 2009-05-01,Philippines,42460.0,2009,5,May
-2009-05-01,Americas,33982.0,2009,5,May
 2009-05-01,Japan,29800.0,2009,5,May
 2009-05-01,United Kingdom,29423.0,2009,5,May
 2009-05-01,Thailand,27066.0,2009,5,May
@@ -752,7 +735,6 @@ date,place_of_residence,arrivals,year,month,month_name
 2009-06-01,Australia,65796.0,2009,6,June
 2009-06-01,Malaysia,61465.0,2009,6,June
 2009-06-01,China,41650.0,2009,6,June
-2009-06-01,Americas,39140.0,2009,6,June
 2009-06-01,Philippines,33487.0,2009,6,June
 2009-06-01,USA,32615.0,2009,6,June
 2009-06-01,Vietnam,28171.0,2009,6,June
@@ -797,7 +779,6 @@ date,place_of_residence,arrivals,year,month,month_name
 2009-07-01,India,65978.0,2009,7,July
 2009-07-01,Malaysia,54087.0,2009,7,July
 2009-07-01,Japan,46633.0,2009,7,July
-2009-07-01,Americas,45315.0,2009,7,July
 2009-07-01,USA,37270.0,2009,7,July
 2009-07-01,United Kingdom,34318.0,2009,7,July
 2009-07-01,Hong Kong SAR,33382.0,2009,7,July
@@ -841,7 +822,6 @@ date,place_of_residence,arrivals,year,month,month_name
 2009-08-01,Malaysia,61893.0,2009,8,August
 2009-08-01,India,54631.0,2009,8,August
 2009-08-01,Japan,50698.0,2009,8,August
-2009-08-01,Americas,40065.0,2009,8,August
 2009-08-01,United Kingdom,37583.0,2009,8,August
 2009-08-01,Hong Kong SAR,36218.0,2009,8,August
 2009-08-01,Philippines,35930.0,2009,8,August
@@ -887,7 +867,6 @@ date,place_of_residence,arrivals,year,month,month_name
 2009-09-01,Japan,52561.0,2009,9,September
 2009-09-01,Philippines,35289.0,2009,9,September
 2009-09-01,United Kingdom,34753.0,2009,9,September
-2009-09-01,Americas,30958.0,2009,9,September
 2009-09-01,USA,25190.0,2009,9,September
 2009-09-01,Thailand,23587.0,2009,9,September
 2009-09-01,Hong Kong SAR,21509.0,2009,9,September
@@ -929,7 +908,6 @@ date,place_of_residence,arrivals,year,month,month_name
 2009-10-01,Malaysia,69426.0,2009,10,October
 2009-10-01,India,67239.0,2009,10,October
 2009-10-01,Japan,43247.0,2009,10,October
-2009-10-01,Americas,41428.0,2009,10,October
 2009-10-01,United Kingdom,40669.0,2009,10,October
 2009-10-01,Philippines,38367.0,2009,10,October
 2009-10-01,Thailand,35977.0,2009,10,October
@@ -972,7 +950,6 @@ date,place_of_residence,arrivals,year,month,month_name
 2009-11-01,Malaysia,82747.0,2009,11,November
 2009-11-01,Australia,68570.0,2009,11,November
 2009-11-01,India,49836.0,2009,11,November
-2009-11-01,Americas,43839.0,2009,11,November
 2009-11-01,United Kingdom,43734.0,2009,11,November
 2009-11-01,Japan,38949.0,2009,11,November
 2009-11-01,Philippines,37810.0,2009,11,November
@@ -1016,7 +993,6 @@ date,place_of_residence,arrivals,year,month,month_name
 2009-12-01,China,87983.0,2009,12,December
 2009-12-01,Australia,84158.0,2009,12,December
 2009-12-01,India,70097.0,2009,12,December
-2009-12-01,Americas,42170.0,2009,12,December
 2009-12-01,Philippines,41157.0,2009,12,December
 2009-12-01,Japan,40420.0,2009,12,December
 2009-12-01,United Kingdom,39590.0,2009,12,December
@@ -1060,7 +1036,6 @@ date,place_of_residence,arrivals,year,month,month_name
 2010-01-01,Australia,89584.0,2010,1,January
 2010-01-01,Malaysia,67942.0,2010,1,January
 2010-01-01,India,57404.0,2010,1,January
-2010-01-01,Americas,44900.0,2010,1,January
 2010-01-01,United Kingdom,44532.0,2010,1,January
 2010-01-01,South Korea,39437.0,2010,1,January
 2010-01-01,Japan,37747.0,2010,1,January
@@ -1106,7 +1081,6 @@ date,place_of_residence,arrivals,year,month,month_name
 2010-02-01,United Kingdom,47583.0,2010,2,February
 2010-02-01,India,46061.0,2010,2,February
 2010-02-01,Japan,40669.0,2010,2,February
-2010-02-01,Americas,39669.0,2010,2,February
 2010-02-01,Philippines,32510.0,2010,2,February
 2010-02-01,USA,31167.0,2010,2,February
 2010-02-01,South Korea,29589.0,2010,2,February
@@ -1150,7 +1124,6 @@ date,place_of_residence,arrivals,year,month,month_name
 2010-03-01,United Kingdom,54457.0,2010,3,March
 2010-03-01,India,53966.0,2010,3,March
 2010-03-01,Japan,51836.0,2010,3,March
-2010-03-01,Americas,46657.0,2010,3,March
 2010-03-01,Philippines,43959.0,2010,3,March
 2010-03-01,USA,37123.0,2010,3,March
 2010-03-01,Thailand,31815.0,2010,3,March
@@ -1194,7 +1167,6 @@ date,place_of_residence,arrivals,year,month,month_name
 2010-04-01,Australia,70079.0,2010,4,April
 2010-04-01,Philippines,54454.0,2010,4,April
 2010-04-01,Thailand,50657.0,2010,4,April
-2010-04-01,Americas,43034.0,2010,4,April
 2010-04-01,United Kingdom,41364.0,2010,4,April
 2010-04-01,Hong Kong SAR,35564.0,2010,4,April
 2010-04-01,Japan,35179.0,2010,4,April
@@ -1237,7 +1209,6 @@ date,place_of_residence,arrivals,year,month,month_name
 2010-05-01,China,71636.0,2010,5,May
 2010-05-01,Australia,63517.0,2010,5,May
 2010-05-01,Philippines,55312.0,2010,5,May
-2010-05-01,Americas,40131.0,2010,5,May
 2010-05-01,Thailand,38925.0,2010,5,May
 2010-05-01,Japan,36827.0,2010,5,May
 2010-05-01,South Korea,32161.0,2010,5,May
@@ -1280,7 +1251,6 @@ date,place_of_residence,arrivals,year,month,month_name
 2010-06-01,India,83472.0,2010,6,June
 2010-06-01,Australia,74597.0,2010,6,June
 2010-06-01,China,69081.0,2010,6,June
-2010-06-01,Americas,46349.0,2010,6,June
 2010-06-01,Philippines,44491.0,2010,6,June
 2010-06-01,USA,39055.0,2010,6,June
 2010-06-01,Japan,36469.0,2010,6,June
@@ -1324,7 +1294,6 @@ date,place_of_residence,arrivals,year,month,month_name
 2010-07-01,Australia,87289.0,2010,7,July
 2010-07-01,Malaysia,82611.0,2010,7,July
 2010-07-01,India,64912.0,2010,7,July
-2010-07-01,Americas,50467.0,2010,7,July
 2010-07-01,Hong Kong SAR,46727.0,2010,7,July
 2010-07-01,Japan,44649.0,2010,7,July
 2010-07-01,Vietnam,43861.0,2010,7,July
@@ -1370,7 +1339,6 @@ date,place_of_residence,arrivals,year,month,month_name
 2010-08-01,India,57109.0,2010,8,August
 2010-08-01,Japan,56680.0,2010,8,August
 2010-08-01,Hong Kong SAR,46696.0,2010,8,August
-2010-08-01,Americas,44148.0,2010,8,August
 2010-08-01,Philippines,39283.0,2010,8,August
 2010-08-01,United Kingdom,35000.0,2010,8,August
 2010-08-01,Thailand,34804.0,2010,8,August
@@ -1414,7 +1382,6 @@ date,place_of_residence,arrivals,year,month,month_name
 2010-09-01,India,54860.0,2010,9,September
 2010-09-01,Japan,45012.0,2010,9,September
 2010-09-01,Philippines,40672.0,2010,9,September
-2010-09-01,Americas,34775.0,2010,9,September
 2010-09-01,United Kingdom,31704.0,2010,9,September
 2010-09-01,Thailand,30711.0,2010,9,September
 2010-09-01,Hong Kong SAR,28469.0,2010,9,September
@@ -1458,7 +1425,6 @@ date,place_of_residence,arrivals,year,month,month_name
 2010-10-01,India,75574.0,2010,10,October
 2010-10-01,Thailand,57951.0,2010,10,October
 2010-10-01,Philippines,52011.0,2010,10,October
-2010-10-01,Americas,45972.0,2010,10,October
 2010-10-01,Japan,43497.0,2010,10,October
 2010-10-01,United Kingdom,37587.0,2010,10,October
 2010-10-01,USA,36707.0,2010,10,October
@@ -1502,7 +1468,6 @@ date,place_of_residence,arrivals,year,month,month_name
 2010-11-01,Australia,64152.0,2010,11,November
 2010-11-01,Japan,51542.0,2010,11,November
 2010-11-01,Philippines,50094.0,2010,11,November
-2010-11-01,Americas,43978.0,2010,11,November
 2010-11-01,United Kingdom,43263.0,2010,11,November
 2010-11-01,USA,34324.0,2010,11,November
 2010-11-01,Thailand,30197.0,2010,11,November
@@ -1546,7 +1511,6 @@ date,place_of_residence,arrivals,year,month,month_name
 2010-12-01,India,73532.0,2010,12,December
 2010-12-01,Philippines,55518.0,2010,12,December
 2010-12-01,Japan,48844.0,2010,12,December
-2010-12-01,Americas,44765.0,2010,12,December
 2010-12-01,United Kingdom,39570.0,2010,12,December
 2010-12-01,Thailand,39250.0,2010,12,December
 2010-12-01,USA,34346.0,2010,12,December
@@ -1588,7 +1552,6 @@ date,place_of_residence,arrivals,year,month,month_name
 2011-01-01,Australia,98023.0,2011,1,January
 2011-01-01,Malaysia,78342.0,2011,1,January
 2011-01-01,India,63078.0,2011,1,January
-2011-01-01,Americas,49308.0,2011,1,January
 2011-01-01,Japan,48799.0,2011,1,January
 2011-01-01,Philippines,43339.0,2011,1,January
 2011-01-01,United Kingdom,41430.0,2011,1,January
@@ -1634,7 +1597,6 @@ date,place_of_residence,arrivals,year,month,month_name
 2011-02-01,Australia,58135.0,2011,2,February
 2011-02-01,India,50696.0,2011,2,February
 2011-02-01,Philippines,48107.0,2011,2,February
-2011-02-01,Americas,43634.0,2011,2,February
 2011-02-01,United Kingdom,41679.0,2011,2,February
 2011-02-01,Hong Kong SAR,38190.0,2011,2,February
 2011-02-01,South Korea,36810.0,2011,2,February
@@ -1678,7 +1640,6 @@ date,place_of_residence,arrivals,year,month,month_name
 2011-03-01,Japan,59999.0,2011,3,March
 2011-03-01,Philippines,59922.0,2011,3,March
 2011-03-01,India,57601.0,2011,3,March
-2011-03-01,Americas,56454.0,2011,3,March
 2011-03-01,United Kingdom,49776.0,2011,3,March
 2011-03-01,Thailand,45728.0,2011,3,March
 2011-03-01,USA,43236.0,2011,3,March
@@ -1723,7 +1684,6 @@ date,place_of_residence,arrivals,year,month,month_name
 2011-04-01,India,74097.0,2011,4,April
 2011-04-01,Thailand,55662.0,2011,4,April
 2011-04-01,Hong Kong SAR,52413.0,2011,4,April
-2011-04-01,Americas,45449.0,2011,4,April
 2011-04-01,United Kingdom,44974.0,2011,4,April
 2011-04-01,Japan,38311.0,2011,4,April
 2011-04-01,USA,34124.0,2011,4,April
@@ -1766,7 +1726,6 @@ date,place_of_residence,arrivals,year,month,month_name
 2011-05-01,Philippines,72488.0,2011,5,May
 2011-05-01,Australia,72365.0,2011,5,May
 2011-05-01,Thailand,44274.0,2011,5,May
-2011-05-01,Americas,43167.0,2011,5,May
 2011-05-01,Japan,41594.0,2011,5,May
 2011-05-01,Hong Kong SAR,37886.0,2011,5,May
 2011-05-01,USA,34105.0,2011,5,May
@@ -1809,7 +1768,6 @@ date,place_of_residence,arrivals,year,month,month_name
 2011-06-01,India,90742.0,2011,6,June
 2011-06-01,Australia,84371.0,2011,6,June
 2011-06-01,Philippines,52257.0,2011,6,June
-2011-06-01,Americas,47880.0,2011,6,June
 2011-06-01,USA,39712.0,2011,6,June
 2011-06-01,Japan,38061.0,2011,6,June
 2011-06-01,Hong Kong SAR,37962.0,2011,6,June
@@ -1854,7 +1812,6 @@ date,place_of_residence,arrivals,year,month,month_name
 2011-07-01,India,71209.0,2011,7,July
 2011-07-01,Hong Kong SAR,56960.0,2011,7,July
 2011-07-01,Japan,55479.0,2011,7,July
-2011-07-01,Americas,53651.0,2011,7,July
 2011-07-01,Philippines,50938.0,2011,7,July
 2011-07-01,Vietnam,45542.0,2011,7,July
 2011-07-01,USA,43187.0,2011,7,July
@@ -1900,7 +1857,6 @@ date,place_of_residence,arrivals,year,month,month_name
 2011-08-01,Philippines,49558.0,2011,8,August
 2011-08-01,Hong Kong SAR,49034.0,2011,8,August
 2011-08-01,South Korea,44364.0,2011,8,August
-2011-08-01,Americas,43227.0,2011,8,August
 2011-08-01,United Kingdom,34980.0,2011,8,August
 2011-08-01,Thailand,34385.0,2011,8,August
 2011-08-01,USA,34221.0,2011,8,August
@@ -1942,7 +1898,6 @@ date,place_of_residence,arrivals,year,month,month_name
 2011-09-01,Japan,62395.0,2011,9,September
 2011-09-01,India,58309.0,2011,9,September
 2011-09-01,Philippines,51859.0,2011,9,September
-2011-09-01,Americas,37354.0,2011,9,September
 2011-09-01,United Kingdom,33964.0,2011,9,September
 2011-09-01,Thailand,33009.0,2011,9,September
 2011-09-01,Hong Kong SAR,31113.0,2011,9,September
@@ -1987,7 +1942,6 @@ date,place_of_residence,arrivals,year,month,month_name
 2011-10-01,Philippines,63218.0,2011,10,October
 2011-10-01,Japan,57677.0,2011,10,October
 2011-10-01,Thailand,53133.0,2011,10,October
-2011-10-01,Americas,47929.0,2011,10,October
 2011-10-01,USA,36840.0,2011,10,October
 2011-10-01,United Kingdom,36372.0,2011,10,October
 2011-10-01,South Korea,33594.0,2011,10,October
@@ -2030,7 +1984,6 @@ date,place_of_residence,arrivals,year,month,month_name
 2011-11-01,Australia,70012.0,2011,11,November
 2011-11-01,Japan,61293.0,2011,11,November
 2011-11-01,Philippines,52726.0,2011,11,November
-2011-11-01,Americas,48158.0,2011,11,November
 2011-11-01,United Kingdom,39094.0,2011,11,November
 2011-11-01,USA,36701.0,2011,11,November
 2011-11-01,South Korea,33145.0,2011,11,November
@@ -2074,7 +2027,6 @@ date,place_of_residence,arrivals,year,month,month_name
 2011-12-01,India,78434.0,2011,12,December
 2011-12-01,Japan,62585.0,2011,12,December
 2011-12-01,Philippines,57114.0,2011,12,December
-2011-12-01,Americas,47529.0,2011,12,December
 2011-12-01,Thailand,39338.0,2011,12,December
 2011-12-01,United Kingdom,37068.0,2011,12,December
 2011-12-01,USA,36418.0,2011,12,December
@@ -2116,7 +2068,6 @@ date,place_of_residence,arrivals,year,month,month_name
 2012-01-01,Australia,94946.0,2012,1,January
 2012-01-01,Malaysia,88970.0,2012,1,January
 2012-01-01,India,57265.0,2012,1,January
-2012-01-01,Americas,51653.0,2012,1,January
 2012-01-01,Japan,50672.0,2012,1,January
 2012-01-01,South Korea,45933.0,2012,1,January
 2012-01-01,Philippines,42248.0,2012,1,January
@@ -2161,7 +2112,6 @@ date,place_of_residence,arrivals,year,month,month_name
 2012-02-01,Japan,67306.0,2012,2,February
 2012-02-01,Australia,63878.0,2012,2,February
 2012-02-01,India,61815.0,2012,2,February
-2012-02-01,Americas,54048.0,2012,2,February
 2012-02-01,Philippines,50931.0,2012,2,February
 2012-02-01,United Kingdom,47150.0,2012,2,February
 2012-02-01,South Korea,45397.0,2012,2,February
@@ -2205,7 +2155,6 @@ date,place_of_residence,arrivals,year,month,month_name
 2012-03-01,Japan,74995.0,2012,3,March
 2012-03-01,Australia,70960.0,2012,3,March
 2012-03-01,India,65547.0,2012,3,March
-2012-03-01,Americas,60074.0,2012,3,March
 2012-03-01,Philippines,58682.0,2012,3,March
 2012-03-01,United Kingdom,52121.0,2012,3,March
 2012-03-01,USA,45720.0,2012,3,March
@@ -2251,7 +2200,6 @@ date,place_of_residence,arrivals,year,month,month_name
 2012-04-01,Philippines,75052.0,2012,4,April
 2012-04-01,Thailand,56217.0,2012,4,April
 2012-04-01,Japan,49203.0,2012,4,April
-2012-04-01,Americas,47323.0,2012,4,April
 2012-04-01,Hong Kong SAR,47141.0,2012,4,April
 2012-04-01,United Kingdom,38489.0,2012,4,April
 2012-04-01,USA,35169.0,2012,4,April
@@ -2294,7 +2242,6 @@ date,place_of_residence,arrivals,year,month,month_name
 2012-05-01,Australia,72641.0,2012,5,May
 2012-05-01,Philippines,72484.0,2012,5,May
 2012-05-01,Japan,50006.0,2012,5,May
-2012-05-01,Americas,46711.0,2012,5,May
 2012-05-01,Thailand,42583.0,2012,5,May
 2012-05-01,USA,36739.0,2012,5,May
 2012-05-01,Hong Kong SAR,33091.0,2012,5,May
@@ -2336,7 +2283,6 @@ date,place_of_residence,arrivals,year,month,month_name
 2012-06-01,Malaysia,107356.0,2012,6,June
 2012-06-01,India,93694.0,2012,6,June
 2012-06-01,Australia,92951.0,2012,6,June
-2012-06-01,Americas,52552.0,2012,6,June
 2012-06-01,Japan,52387.0,2012,6,June
 2012-06-01,Philippines,49957.0,2012,6,June
 2012-06-01,USA,43468.0,2012,6,June
@@ -2381,7 +2327,6 @@ date,place_of_residence,arrivals,year,month,month_name
 2012-07-01,Malaysia,90449.0,2012,7,July
 2012-07-01,India,68749.0,2012,7,July
 2012-07-01,Japan,61139.0,2012,7,July
-2012-07-01,Americas,55947.0,2012,7,July
 2012-07-01,Hong Kong SAR,50113.0,2012,7,July
 2012-07-01,Vietnam,46521.0,2012,7,July
 2012-07-01,Philippines,45249.0,2012,7,July
@@ -2427,7 +2372,6 @@ date,place_of_residence,arrivals,year,month,month_name
 2012-08-01,India,63579.0,2012,8,August
 2012-08-01,Hong Kong SAR,48138.0,2012,8,August
 2012-08-01,South Korea,47383.0,2012,8,August
-2012-08-01,Americas,46622.0,2012,8,August
 2012-08-01,Philippines,45775.0,2012,8,August
 2012-08-01,Thailand,38137.0,2012,8,August
 2012-08-01,USA,36979.0,2012,8,August
@@ -2470,7 +2414,6 @@ date,place_of_residence,arrivals,year,month,month_name
 2012-09-01,Japan,65991.0,2012,9,September
 2012-09-01,India,58748.0,2012,9,September
 2012-09-01,Philippines,46880.0,2012,9,September
-2012-09-01,Americas,41010.0,2012,9,September
 2012-09-01,Thailand,34926.0,2012,9,September
 2012-09-01,United Kingdom,34867.0,2012,9,September
 2012-09-01,Hong Kong SAR,34584.0,2012,9,September
@@ -2515,7 +2458,6 @@ date,place_of_residence,arrivals,year,month,month_name
 2012-10-01,Japan,62436.0,2012,10,October
 2012-10-01,Thailand,57136.0,2012,10,October
 2012-10-01,Philippines,56058.0,2012,10,October
-2012-10-01,Americas,50635.0,2012,10,October
 2012-10-01,Hong Kong SAR,38630.0,2012,10,October
 2012-10-01,United Kingdom,38087.0,2012,10,October
 2012-10-01,USA,38016.0,2012,10,October
@@ -2558,7 +2500,6 @@ date,place_of_residence,arrivals,year,month,month_name
 2012-11-01,India,74794.0,2012,11,November
 2012-11-01,Japan,70696.0,2012,11,November
 2012-11-01,Philippines,55125.0,2012,11,November
-2012-11-01,Americas,52501.0,2012,11,November
 2012-11-01,USA,40170.0,2012,11,November
 2012-11-01,United Kingdom,39523.0,2012,11,November
 2012-11-01,Hong Kong SAR,36704.0,2012,11,November
@@ -2602,7 +2543,6 @@ date,place_of_residence,arrivals,year,month,month_name
 2012-12-01,India,78272.0,2012,12,December
 2012-12-01,Japan,69538.0,2012,12,December
 2012-12-01,Philippines,58363.0,2012,12,December
-2012-12-01,Americas,57292.0,2012,12,December
 2012-12-01,USA,43787.0,2012,12,December
 2012-12-01,Hong Kong SAR,42299.0,2012,12,December
 2012-12-01,Thailand,40548.0,2012,12,December
@@ -2645,7 +2585,6 @@ date,place_of_residence,arrivals,year,month,month_name
 2013-01-01,Malaysia,89300.0,2013,1,January
 2013-01-01,India,71162.0,2013,1,January
 2013-01-01,Japan,62857.0,2013,1,January
-2013-01-01,Americas,61382.0,2013,1,January
 2013-01-01,South Korea,53193.0,2013,1,January
 2013-01-01,USA,45736.0,2013,1,January
 2013-01-01,Philippines,44201.0,2013,1,January
@@ -2689,7 +2628,6 @@ date,place_of_residence,arrivals,year,month,month_name
 2013-02-01,Australia,69470.0,2013,2,February
 2013-02-01,Japan,68442.0,2013,2,February
 2013-02-01,India,59665.0,2013,2,February
-2013-02-01,Americas,54112.0,2013,2,February
 2013-02-01,Hong Kong SAR,48473.0,2013,2,February
 2013-02-01,United Kingdom,44608.0,2013,2,February
 2013-02-01,Philippines,44540.0,2013,2,February
@@ -2734,7 +2672,6 @@ date,place_of_residence,arrivals,year,month,month_name
 2013-03-01,Japan,87359.0,2013,3,March
 2013-03-01,India,70480.0,2013,3,March
 2013-03-01,Philippines,63521.0,2013,3,March
-2013-03-01,Americas,62006.0,2013,3,March
 2013-03-01,United Kingdom,52527.0,2013,3,March
 2013-03-01,Hong Kong SAR,50220.0,2013,3,March
 2013-03-01,USA,46881.0,2013,3,March
@@ -2779,7 +2716,6 @@ date,place_of_residence,arrivals,year,month,month_name
 2013-04-01,Philippines,73215.0,2013,4,April
 2013-04-01,Thailand,54728.0,2013,4,April
 2013-04-01,Japan,53292.0,2013,4,April
-2013-04-01,Americas,52338.0,2013,4,April
 2013-04-01,Hong Kong SAR,40252.0,2013,4,April
 2013-04-01,USA,38908.0,2013,4,April
 2013-04-01,United Kingdom,38620.0,2013,4,April
@@ -2823,7 +2759,6 @@ date,place_of_residence,arrivals,year,month,month_name
 2013-05-01,Philippines,76929.0,2013,5,May
 2013-05-01,Japan,55491.0,2013,5,May
 2013-05-01,Thailand,48171.0,2013,5,May
-2013-05-01,Americas,47760.0,2013,5,May
 2013-05-01,Hong Kong SAR,40898.0,2013,5,May
 2013-05-01,USA,36909.0,2013,5,May
 2013-05-01,South Korea,33857.0,2013,5,May
@@ -2865,7 +2800,6 @@ date,place_of_residence,arrivals,year,month,month_name
 2013-06-01,India,99754.0,2013,6,June
 2013-06-01,Australia,91231.0,2013,6,June
 2013-06-01,Japan,57757.0,2013,6,June
-2013-06-01,Americas,56119.0,2013,6,June
 2013-06-01,Philippines,55868.0,2013,6,June
 2013-06-01,USA,45860.0,2013,6,June
 2013-06-01,Hong Kong SAR,43857.0,2013,6,June
@@ -2910,7 +2844,6 @@ date,place_of_residence,arrivals,year,month,month_name
 2013-07-01,India,73550.0,2013,7,July
 2013-07-01,Japan,70113.0,2013,7,July
 2013-07-01,Hong Kong SAR,67662.0,2013,7,July
-2013-07-01,Americas,56981.0,2013,7,July
 2013-07-01,Philippines,49225.0,2013,7,July
 2013-07-01,Vietnam,47834.0,2013,7,July
 2013-07-01,Taiwan,47290.0,2013,7,July
@@ -2955,7 +2888,6 @@ date,place_of_residence,arrivals,year,month,month_name
 2013-08-01,India,66274.0,2013,8,August
 2013-08-01,Hong Kong SAR,61337.0,2013,8,August
 2013-08-01,Philippines,51817.0,2013,8,August
-2013-08-01,Americas,49860.0,2013,8,August
 2013-08-01,South Korea,45986.0,2013,8,August
 2013-08-01,Taiwan,40571.0,2013,8,August
 2013-08-01,United Kingdom,39533.0,2013,8,August
@@ -2998,7 +2930,6 @@ date,place_of_residence,arrivals,year,month,month_name
 2013-09-01,Japan,73786.0,2013,9,September
 2013-09-01,India,64556.0,2013,9,September
 2013-09-01,Philippines,47879.0,2013,9,September
-2013-09-01,Americas,43109.0,2013,9,September
 2013-09-01,United Kingdom,36541.0,2013,9,September
 2013-09-01,Thailand,36254.0,2013,9,September
 2013-09-01,South Korea,35599.0,2013,9,September
@@ -3043,7 +2974,6 @@ date,place_of_residence,arrivals,year,month,month_name
 2013-10-01,Japan,68034.0,2013,10,October
 2013-10-01,Philippines,61360.0,2013,10,October
 2013-10-01,Thailand,58887.0,2013,10,October
-2013-10-01,Americas,50079.0,2013,10,October
 2013-10-01,South Korea,40157.0,2013,10,October
 2013-10-01,Hong Kong SAR,37570.0,2013,10,October
 2013-10-01,USA,37555.0,2013,10,October
@@ -3086,7 +3016,6 @@ date,place_of_residence,arrivals,year,month,month_name
 2013-11-01,India,74389.0,2013,11,November
 2013-11-01,Japan,72603.0,2013,11,November
 2013-11-01,Philippines,55195.0,2013,11,November
-2013-11-01,Americas,51911.0,2013,11,November
 2013-11-01,South Korea,40388.0,2013,11,November
 2013-11-01,USA,39620.0,2013,11,November
 2013-11-01,United Kingdom,39370.0,2013,11,November
@@ -3130,7 +3059,6 @@ date,place_of_residence,arrivals,year,month,month_name
 2013-12-01,India,83161.0,2013,12,December
 2013-12-01,Japan,70932.0,2013,12,December
 2013-12-01,Philippines,64044.0,2013,12,December
-2013-12-01,Americas,55788.0,2013,12,December
 2013-12-01,Hong Kong SAR,44788.0,2013,12,December
 2013-12-01,Thailand,42796.0,2013,12,December
 2013-12-01,USA,41785.0,2013,12,December
@@ -3172,7 +3100,6 @@ date,place_of_residence,arrivals,year,month,month_name
 2014-01-01,Australia,126119.0,2014,1,January
 2014-01-01,Malaysia,89482.0,2014,1,January
 2014-01-01,India,65557.0,2014,1,January
-2014-01-01,Americas,60370.0,2014,1,January
 2014-01-01,South Korea,59745.0,2014,1,January
 2014-01-01,Japan,59578.0,2014,1,January
 2014-01-01,USA,43746.0,2014,1,January
@@ -3217,7 +3144,6 @@ date,place_of_residence,arrivals,year,month,month_name
 2014-02-01,Japan,69230.0,2014,2,February
 2014-02-01,Australia,69119.0,2014,2,February
 2014-02-01,India,62999.0,2014,2,February
-2014-02-01,Americas,58987.0,2014,2,February
 2014-02-01,South Korea,51930.0,2014,2,February
 2014-02-01,Hong Kong SAR,48440.0,2014,2,February
 2014-02-01,Philippines,44539.0,2014,2,February
@@ -3261,7 +3187,6 @@ date,place_of_residence,arrivals,year,month,month_name
 2014-03-01,Japan,85946.0,2014,3,March
 2014-03-01,Australia,74578.0,2014,3,March
 2014-03-01,India,70488.0,2014,3,March
-2014-03-01,Americas,66875.0,2014,3,March
 2014-03-01,Philippines,57050.0,2014,3,March
 2014-03-01,USA,49729.0,2014,3,March
 2014-03-01,United Kingdom,49474.0,2014,3,March
@@ -3308,7 +3233,6 @@ date,place_of_residence,arrivals,year,month,month_name
 2014-04-01,Hong Kong SAR,69675.0,2014,4,April
 2014-04-01,Thailand,56136.0,2014,4,April
 2014-04-01,Japan,50751.0,2014,4,April
-2014-04-01,Americas,48811.0,2014,4,April
 2014-04-01,United Kingdom,43708.0,2014,4,April
 2014-04-01,USA,36594.0,2014,4,April
 2014-04-01,South Korea,36247.0,2014,4,April
@@ -3352,7 +3276,6 @@ date,place_of_residence,arrivals,year,month,month_name
 2014-05-01,Japan,54173.0,2014,5,May
 2014-05-01,Hong Kong SAR,47859.0,2014,5,May
 2014-05-01,Thailand,46683.0,2014,5,May
-2014-05-01,Americas,46359.0,2014,5,May
 2014-05-01,South Korea,41946.0,2014,5,May
 2014-05-01,Vietnam,36630.0,2014,5,May
 2014-05-01,USA,35355.0,2014,5,May
@@ -3394,7 +3317,6 @@ date,place_of_residence,arrivals,year,month,month_name
 2014-06-01,Australia,81558.0,2014,6,June
 2014-06-01,Philippines,56224.0,2014,6,June
 2014-06-01,Japan,56044.0,2014,6,June
-2014-06-01,Americas,50633.0,2014,6,June
 2014-06-01,Vietnam,48999.0,2014,6,June
 2014-06-01,Hong Kong SAR,47182.0,2014,6,June
 2014-06-01,USA,41609.0,2014,6,June
@@ -3439,7 +3361,6 @@ date,place_of_residence,arrivals,year,month,month_name
 2014-07-01,India,72724.0,2014,7,July
 2014-07-01,Japan,69419.0,2014,7,July
 2014-07-01,Vietnam,55951.0,2014,7,July
-2014-07-01,Americas,54556.0,2014,7,July
 2014-07-01,Philippines,49506.0,2014,7,July
 2014-07-01,South Korea,46666.0,2014,7,July
 2014-07-01,Taiwan,44229.0,2014,7,July
@@ -3484,7 +3405,6 @@ date,place_of_residence,arrivals,year,month,month_name
 2014-08-01,India,69960.0,2014,8,August
 2014-08-01,South Korea,56623.0,2014,8,August
 2014-08-01,Philippines,51074.0,2014,8,August
-2014-08-01,Americas,47977.0,2014,8,August
 2014-08-01,Vietnam,41775.0,2014,8,August
 2014-08-01,Thailand,40849.0,2014,8,August
 2014-08-01,Taiwan,38422.0,2014,8,August
@@ -3526,7 +3446,6 @@ date,place_of_residence,arrivals,year,month,month_name
 2014-09-01,Japan,74408.0,2014,9,September
 2014-09-01,India,65751.0,2014,9,September
 2014-09-01,Philippines,47246.0,2014,9,September
-2014-09-01,Americas,42437.0,2014,9,September
 2014-09-01,Hong Kong SAR,39931.0,2014,9,September
 2014-09-01,South Korea,39276.0,2014,9,September
 2014-09-01,United Kingdom,35981.0,2014,9,September
@@ -3571,7 +3490,6 @@ date,place_of_residence,arrivals,year,month,month_name
 2014-10-01,Japan,68609.0,2014,10,October
 2014-10-01,Philippines,58572.0,2014,10,October
 2014-10-01,Thailand,53916.0,2014,10,October
-2014-10-01,Americas,47969.0,2014,10,October
 2014-10-01,South Korea,44810.0,2014,10,October
 2014-10-01,Hong Kong SAR,40146.0,2014,10,October
 2014-10-01,United Kingdom,36986.0,2014,10,October
@@ -3614,7 +3532,6 @@ date,place_of_residence,arrivals,year,month,month_name
 2014-11-01,India,71555.0,2014,11,November
 2014-11-01,Japan,69415.0,2014,11,November
 2014-11-01,Philippines,53508.0,2014,11,November
-2014-11-01,Americas,52340.0,2014,11,November
 2014-11-01,South Korea,40230.0,2014,11,November
 2014-11-01,USA,39705.0,2014,11,November
 2014-11-01,Hong Kong SAR,39019.0,2014,11,November
@@ -3658,7 +3575,6 @@ date,place_of_residence,arrivals,year,month,month_name
 2014-12-01,India,82520.0,2014,12,December
 2014-12-01,Japan,71920.0,2014,12,December
 2014-12-01,Philippines,64526.0,2014,12,December
-2014-12-01,Americas,57955.0,2014,12,December
 2014-12-01,Hong Kong SAR,45669.0,2014,12,December
 2014-12-01,USA,43188.0,2014,12,December
 2014-12-01,South Korea,40918.0,2014,12,December
@@ -3701,7 +3617,6 @@ date,place_of_residence,arrivals,year,month,month_name
 2015-01-01,Malaysia,86193.0,2015,1,January
 2015-01-01,India,73605.0,2015,1,January
 2015-01-01,South Korea,71820.0,2015,1,January
-2015-01-01,Americas,64780.0,2015,1,January
 2015-01-01,Japan,58479.0,2015,1,January
 2015-01-01,USA,46845.0,2015,1,January
 2015-01-01,United Kingdom,44923.0,2015,1,January
@@ -3745,7 +3660,6 @@ date,place_of_residence,arrivals,year,month,month_name
 2015-02-01,Australia,65009.0,2015,2,February
 2015-02-01,Japan,62422.0,2015,2,February
 2015-02-01,India,60016.0,2015,2,February
-2015-02-01,Americas,57924.0,2015,2,February
 2015-02-01,South Korea,51415.0,2015,2,February
 2015-02-01,United Kingdom,47051.0,2015,2,February
 2015-02-01,Hong Kong SAR,46985.0,2015,2,February
@@ -3789,7 +3703,6 @@ date,place_of_residence,arrivals,year,month,month_name
 2015-03-01,Japan,79941.0,2015,3,March
 2015-03-01,Australia,70708.0,2015,3,March
 2015-03-01,India,70302.0,2015,3,March
-2015-03-01,Americas,64764.0,2015,3,March
 2015-03-01,Philippines,53649.0,2015,3,March
 2015-03-01,United Kingdom,50741.0,2015,3,March
 2015-03-01,USA,48341.0,2015,3,March
@@ -3834,7 +3747,6 @@ date,place_of_residence,arrivals,year,month,month_name
 2015-04-01,Australia,83497.0,2015,4,April
 2015-04-01,Philippines,72259.0,2015,4,April
 2015-04-01,Hong Kong SAR,58959.0,2015,4,April
-2015-04-01,Americas,49143.0,2015,4,April
 2015-04-01,Thailand,47838.0,2015,4,April
 2015-04-01,Japan,46687.0,2015,4,April
 2015-04-01,South Korea,41602.0,2015,4,April
@@ -3878,7 +3790,6 @@ date,place_of_residence,arrivals,year,month,month_name
 2015-05-01,Australia,73965.0,2015,5,May
 2015-05-01,Philippines,72159.0,2015,5,May
 2015-05-01,Japan,52971.0,2015,5,May
-2015-05-01,Americas,48014.0,2015,5,May
 2015-05-01,Hong Kong SAR,45742.0,2015,5,May
 2015-05-01,Thailand,45674.0,2015,5,May
 2015-05-01,South Korea,43883.0,2015,5,May
@@ -3920,7 +3831,6 @@ date,place_of_residence,arrivals,year,month,month_name
 2015-06-01,India,101773.0,2015,6,June
 2015-06-01,Malaysia,100074.0,2015,6,June
 2015-06-01,Australia,82755.0,2015,6,June
-2015-06-01,Americas,55325.0,2015,6,June
 2015-06-01,Philippines,53329.0,2015,6,June
 2015-06-01,Japan,53257.0,2015,6,June
 2015-06-01,Vietnam,45490.0,2015,6,June
@@ -3966,7 +3876,6 @@ date,place_of_residence,arrivals,year,month,month_name
 2015-07-01,India,83806.0,2015,7,July
 2015-07-01,Hong Kong SAR,82817.0,2015,7,July
 2015-07-01,Japan,67682.0,2015,7,July
-2015-07-01,Americas,56521.0,2015,7,July
 2015-07-01,Vietnam,54711.0,2015,7,July
 2015-07-01,Taiwan,50278.0,2015,7,July
 2015-07-01,Philippines,49724.0,2015,7,July
@@ -4012,7 +3921,6 @@ date,place_of_residence,arrivals,year,month,month_name
 2015-08-01,India,77137.0,2015,8,August
 2015-08-01,South Korea,60468.0,2015,8,August
 2015-08-01,Philippines,52997.0,2015,8,August
-2015-08-01,Americas,49942.0,2015,8,August
 2015-08-01,Taiwan,45292.0,2015,8,August
 2015-08-01,United Kingdom,41077.0,2015,8,August
 2015-08-01,Thailand,39579.0,2015,8,August
@@ -4054,7 +3962,6 @@ date,place_of_residence,arrivals,year,month,month_name
 2015-09-01,Japan,73972.0,2015,9,September
 2015-09-01,India,69846.0,2015,9,September
 2015-09-01,Philippines,48209.0,2015,9,September
-2015-09-01,Americas,42354.0,2015,9,September
 2015-09-01,Hong Kong SAR,40315.0,2015,9,September
 2015-09-01,Thailand,39567.0,2015,9,September
 2015-09-01,South Korea,39063.0,2015,9,September
@@ -4099,7 +4006,6 @@ date,place_of_residence,arrivals,year,month,month_name
 2015-10-01,Japan,66416.0,2015,10,October
 2015-10-01,Thailand,63693.0,2015,10,October
 2015-10-01,Philippines,58357.0,2015,10,October
-2015-10-01,Americas,52973.0,2015,10,October
 2015-10-01,South Korea,50582.0,2015,10,October
 2015-10-01,Hong Kong SAR,41272.0,2015,10,October
 2015-10-01,United Kingdom,40871.0,2015,10,October
@@ -4142,7 +4048,6 @@ date,place_of_residence,arrivals,year,month,month_name
 2015-11-01,Australia,76369.0,2015,11,November
 2015-11-01,Japan,67840.0,2015,11,November
 2015-11-01,Philippines,60583.0,2015,11,November
-2015-11-01,Americas,55155.0,2015,11,November
 2015-11-01,South Korea,44988.0,2015,11,November
 2015-11-01,United Kingdom,42034.0,2015,11,November
 2015-11-01,USA,41457.0,2015,11,November
@@ -4186,7 +4091,6 @@ date,place_of_residence,arrivals,year,month,month_name
 2015-12-01,India,87950.0,2015,12,December
 2015-12-01,Philippines,68114.0,2015,12,December
 2015-12-01,Japan,66719.0,2015,12,December
-2015-12-01,Americas,60391.0,2015,12,December
 2015-12-01,Hong Kong SAR,45853.0,2015,12,December
 2015-12-01,USA,45546.0,2015,12,December
 2015-12-01,Thailand,45441.0,2015,12,December
@@ -4229,7 +4133,6 @@ date,place_of_residence,arrivals,year,month,month_name
 2016-01-01,Malaysia,87208.0,2016,1,January
 2016-01-01,India,81363.0,2016,1,January
 2016-01-01,South Korea,74180.0,2016,1,January
-2016-01-01,Americas,66988.0,2016,1,January
 2016-01-01,Japan,62275.0,2016,1,January
 2016-01-01,USA,48852.0,2016,1,January
 2016-01-01,United Kingdom,48413.0,2016,1,January
@@ -4273,7 +4176,6 @@ date,place_of_residence,arrivals,year,month,month_name
 2016-02-01,Japan,65604.0,2016,2,February
 2016-02-01,India,64702.0,2016,2,February
 2016-02-01,Australia,61900.0,2016,2,February
-2016-02-01,Americas,58800.0,2016,2,February
 2016-02-01,South Korea,57595.0,2016,2,February
 2016-02-01,Hong Kong SAR,49837.0,2016,2,February
 2016-02-01,United Kingdom,48378.0,2016,2,February
@@ -4317,7 +4219,6 @@ date,place_of_residence,arrivals,year,month,month_name
 2016-03-01,Japan,79146.0,2016,3,March
 2016-03-01,India,78859.0,2016,3,March
 2016-03-01,Australia,78701.0,2016,3,March
-2016-03-01,Americas,63521.0,2016,3,March
 2016-03-01,Philippines,58963.0,2016,3,March
 2016-03-01,Hong Kong SAR,58341.0,2016,3,March
 2016-03-01,United Kingdom,54800.0,2016,3,March
@@ -4362,7 +4263,6 @@ date,place_of_residence,arrivals,year,month,month_name
 2016-04-01,Australia,93320.0,2016,4,April
 2016-04-01,Philippines,74245.0,2016,4,April
 2016-04-01,Thailand,62514.0,2016,4,April
-2016-04-01,Americas,52570.0,2016,4,April
 2016-04-01,Japan,49613.0,2016,4,April
 2016-04-01,United Kingdom,45552.0,2016,4,April
 2016-04-01,Hong Kong SAR,42712.0,2016,4,April
@@ -4407,7 +4307,6 @@ date,place_of_residence,arrivals,year,month,month_name
 2016-05-01,Australia,64175.0,2016,5,May
 2016-05-01,Japan,55006.0,2016,5,May
 2016-05-01,Thailand,52331.0,2016,5,May
-2016-05-01,Americas,50578.0,2016,5,May
 2016-05-01,South Korea,44932.0,2016,5,May
 2016-05-01,Vietnam,40046.0,2016,5,May
 2016-05-01,Hong Kong SAR,39959.0,2016,5,May
@@ -4449,7 +4348,6 @@ date,place_of_residence,arrivals,year,month,month_name
 2016-06-01,Malaysia,91901.0,2016,6,June
 2016-06-01,Australia,77805.0,2016,6,June
 2016-06-01,Philippines,56702.0,2016,6,June
-2016-06-01,Americas,56233.0,2016,6,June
 2016-06-01,Japan,54993.0,2016,6,June
 2016-06-01,Vietnam,52449.0,2016,6,June
 2016-06-01,USA,46155.0,2016,6,June
@@ -4495,7 +4393,6 @@ date,place_of_residence,arrivals,year,month,month_name
 2016-07-01,Hong Kong SAR,69847.0,2016,7,July
 2016-07-01,Japan,64715.0,2016,7,July
 2016-07-01,Vietnam,59800.0,2016,7,July
-2016-07-01,Americas,59258.0,2016,7,July
 2016-07-01,Philippines,55005.0,2016,7,July
 2016-07-01,South Korea,54700.0,2016,7,July
 2016-07-01,Thailand,49788.0,2016,7,July
@@ -4540,7 +4437,6 @@ date,place_of_residence,arrivals,year,month,month_name
 2016-08-01,Hong Kong SAR,70842.0,2016,8,August
 2016-08-01,South Korea,62018.0,2016,8,August
 2016-08-01,Philippines,50362.0,2016,8,August
-2016-08-01,Americas,48661.0,2016,8,August
 2016-08-01,Vietnam,46773.0,2016,8,August
 2016-08-01,United Kingdom,43301.0,2016,8,August
 2016-08-01,Taiwan,42274.0,2016,8,August
@@ -4582,7 +4478,6 @@ date,place_of_residence,arrivals,year,month,month_name
 2016-09-01,India,75074.0,2016,9,September
 2016-09-01,Japan,68997.0,2016,9,September
 2016-09-01,Philippines,45804.0,2016,9,September
-2016-09-01,Americas,42901.0,2016,9,September
 2016-09-01,South Korea,37742.0,2016,9,September
 2016-09-01,Thailand,36911.0,2016,9,September
 2016-09-01,United Kingdom,36529.0,2016,9,September
@@ -4627,7 +4522,6 @@ date,place_of_residence,arrivals,year,month,month_name
 2016-10-01,Japan,62858.0,2016,10,October
 2016-10-01,Thailand,58094.0,2016,10,October
 2016-10-01,Philippines,57924.0,2016,10,October
-2016-10-01,Americas,53083.0,2016,10,October
 2016-10-01,United Kingdom,43841.0,2016,10,October
 2016-10-01,USA,40277.0,2016,10,October
 2016-10-01,South Korea,34346.0,2016,10,October
@@ -4669,7 +4563,6 @@ date,place_of_residence,arrivals,year,month,month_name
 2016-11-01,India,90734.0,2016,11,November
 2016-11-01,Australia,73308.0,2016,11,November
 2016-11-01,Japan,64466.0,2016,11,November
-2016-11-01,Americas,60401.0,2016,11,November
 2016-11-01,Philippines,55814.0,2016,11,November
 2016-11-01,USA,44971.0,2016,11,November
 2016-11-01,United Kingdom,39718.0,2016,11,November
@@ -4713,7 +4606,6 @@ date,place_of_residence,arrivals,year,month,month_name
 2016-12-01,Australia,100849.0,2016,12,December
 2016-12-01,India,94323.0,2016,12,December
 2016-12-01,Philippines,68624.0,2016,12,December
-2016-12-01,Americas,67650.0,2016,12,December
 2016-12-01,Japan,62570.0,2016,12,December
 2016-12-01,USA,50542.0,2016,12,December
 2016-12-01,Thailand,43619.0,2016,12,December
@@ -4756,7 +4648,6 @@ date,place_of_residence,arrivals,year,month,month_name
 2017-01-01,Australia,115930.0,2017,1,January
 2017-01-01,Malaysia,84504.0,2017,1,January
 2017-01-01,India,80062.0,2017,1,January
-2017-01-01,Americas,72376.0,2017,1,January
 2017-01-01,South Korea,60247.0,2017,1,January
 2017-01-01,Japan,53377.0,2017,1,January
 2017-01-01,USA,51562.0,2017,1,January
@@ -4801,7 +4692,6 @@ date,place_of_residence,arrivals,year,month,month_name
 2017-02-01,India,75905.0,2017,2,February
 2017-02-01,Japan,72654.0,2017,2,February
 2017-02-01,Australia,71416.0,2017,2,February
-2017-02-01,Americas,68575.0,2017,2,February
 2017-02-01,South Korea,60174.0,2017,2,February
 2017-02-01,United Kingdom,54456.0,2017,2,February
 2017-02-01,Philippines,51160.0,2017,2,February
@@ -4845,7 +4735,6 @@ date,place_of_residence,arrivals,year,month,month_name
 2017-03-01,India,85299.0,2017,3,March
 2017-03-01,Australia,85040.0,2017,3,March
 2017-03-01,Japan,82293.0,2017,3,March
-2017-03-01,Americas,72468.0,2017,3,March
 2017-03-01,Philippines,61816.0,2017,3,March
 2017-03-01,United Kingdom,58635.0,2017,3,March
 2017-03-01,USA,52107.0,2017,3,March
@@ -4890,7 +4779,6 @@ date,place_of_residence,arrivals,year,month,month_name
 2017-04-01,Australia,93927.0,2017,4,April
 2017-04-01,Philippines,81952.0,2017,4,April
 2017-04-01,Thailand,58504.0,2017,4,April
-2017-04-01,Americas,55814.0,2017,4,April
 2017-04-01,Hong Kong SAR,53971.0,2017,4,April
 2017-04-01,South Korea,48829.0,2017,4,April
 2017-04-01,United Kingdom,48170.0,2017,4,April
@@ -4933,7 +4821,6 @@ date,place_of_residence,arrivals,year,month,month_name
 2017-05-01,Malaysia,90335.0,2017,5,May
 2017-05-01,Philippines,77671.0,2017,5,May
 2017-05-01,Australia,71970.0,2017,5,May
-2017-05-01,Americas,54290.0,2017,5,May
 2017-05-01,Japan,54012.0,2017,5,May
 2017-05-01,South Korea,52762.0,2017,5,May
 2017-05-01,Thailand,47074.0,2017,5,May
@@ -4976,7 +4863,6 @@ date,place_of_residence,arrivals,year,month,month_name
 2017-06-01,India,136478.0,2017,6,June
 2017-06-01,Malaysia,102776.0,2017,6,June
 2017-06-01,Australia,84840.0,2017,6,June
-2017-06-01,Americas,64461.0,2017,6,June
 2017-06-01,Vietnam,62831.0,2017,6,June
 2017-06-01,Philippines,62002.0,2017,6,June
 2017-06-01,Japan,52932.0,2017,6,June
@@ -5021,7 +4907,6 @@ date,place_of_residence,arrivals,year,month,month_name
 2017-07-01,India,97125.0,2017,7,July
 2017-07-01,Malaysia,87138.0,2017,7,July
 2017-07-01,Vietnam,71153.0,2017,7,July
-2017-07-01,Americas,66833.0,2017,7,July
 2017-07-01,Japan,63193.0,2017,7,July
 2017-07-01,Philippines,58727.0,2017,7,July
 2017-07-01,South Korea,58326.0,2017,7,July
@@ -5068,7 +4953,6 @@ date,place_of_residence,arrivals,year,month,month_name
 2017-08-01,South Korea,60957.0,2017,8,August
 2017-08-01,Hong Kong SAR,55265.0,2017,8,August
 2017-08-01,Philippines,53539.0,2017,8,August
-2017-08-01,Americas,53414.0,2017,8,August
 2017-08-01,Vietnam,51866.0,2017,8,August
 2017-08-01,United Kingdom,43467.0,2017,8,August
 2017-08-01,Taiwan,42151.0,2017,8,August
@@ -5110,7 +4994,6 @@ date,place_of_residence,arrivals,year,month,month_name
 2017-09-01,Malaysia,90837.0,2017,9,September
 2017-09-01,Japan,69742.0,2017,9,September
 2017-09-01,Philippines,52500.0,2017,9,September
-2017-09-01,Americas,48313.0,2017,9,September
 2017-09-01,South Korea,47602.0,2017,9,September
 2017-09-01,United Kingdom,42423.0,2017,9,September
 2017-09-01,Vietnam,40270.0,2017,9,September
@@ -5155,7 +5038,6 @@ date,place_of_residence,arrivals,year,month,month_name
 2017-10-01,Japan,64624.0,2017,10,October
 2017-10-01,Thailand,61448.0,2017,10,October
 2017-10-01,Philippines,60194.0,2017,10,October
-2017-10-01,Americas,54388.0,2017,10,October
 2017-10-01,South Korea,53430.0,2017,10,October
 2017-10-01,United Kingdom,41920.0,2017,10,October
 2017-10-01,USA,40428.0,2017,10,October
@@ -5197,7 +5079,6 @@ date,place_of_residence,arrivals,year,month,month_name
 2017-11-01,India,86432.0,2017,11,November
 2017-11-01,Australia,81822.0,2017,11,November
 2017-11-01,Japan,75348.0,2017,11,November
-2017-11-01,Americas,74042.0,2017,11,November
 2017-11-01,Philippines,64826.0,2017,11,November
 2017-11-01,USA,52454.0,2017,11,November
 2017-11-01,South Korea,52123.0,2017,11,November
@@ -5240,7 +5121,6 @@ date,place_of_residence,arrivals,year,month,month_name
 2017-12-01,Malaysia,135260.0,2017,12,December
 2017-12-01,India,114738.0,2017,12,December
 2017-12-01,Australia,105085.0,2017,12,December
-2017-12-01,Americas,73679.0,2017,12,December
 2017-12-01,Philippines,65926.0,2017,12,December
 2017-12-01,Japan,63553.0,2017,12,December
 2017-12-01,USA,54367.0,2017,12,December
@@ -5284,7 +5164,6 @@ date,place_of_residence,arrivals,year,month,month_name
 2018-01-01,Australia,114846.0,2018,1,January
 2018-01-01,India,108067.0,2018,1,January
 2018-01-01,Malaysia,86833.0,2018,1,January
-2018-01-01,Americas,81781.0,2018,1,January
 2018-01-01,South Korea,75502.0,2018,1,January
 2018-01-01,Japan,64087.0,2018,1,January
 2018-01-01,USA,57991.0,2018,1,January
@@ -5327,7 +5206,6 @@ date,place_of_residence,arrivals,year,month,month_name
 2018-02-01,Indonesia,221178.0,2018,2,February
 2018-02-01,Malaysia,85212.0,2018,2,February
 2018-02-01,India,81797.0,2018,2,February
-2018-02-01,Americas,76079.0,2018,2,February
 2018-02-01,Japan,68191.0,2018,2,February
 2018-02-01,Australia,63229.0,2018,2,February
 2018-02-01,United Kingdom,57901.0,2018,2,February
@@ -5372,7 +5250,6 @@ date,place_of_residence,arrivals,year,month,month_name
 2018-03-01,Malaysia,109897.0,2018,3,March
 2018-03-01,India,105560.0,2018,3,March
 2018-03-01,Australia,87152.0,2018,3,March
-2018-03-01,Americas,85412.0,2018,3,March
 2018-03-01,Japan,83064.0,2018,3,March
 2018-03-01,United Kingdom,68106.0,2018,3,March
 2018-03-01,Philippines,62876.0,2018,3,March
@@ -5417,7 +5294,6 @@ date,place_of_residence,arrivals,year,month,month_name
 2018-04-01,Australia,99046.0,2018,4,April
 2018-04-01,Malaysia,98351.0,2018,4,April
 2018-04-01,Philippines,79128.0,2018,4,April
-2018-04-01,Americas,69578.0,2018,4,April
 2018-04-01,Thailand,61015.0,2018,4,April
 2018-04-01,United Kingdom,54566.0,2018,4,April
 2018-04-01,USA,50463.0,2018,4,April
@@ -5461,7 +5337,6 @@ date,place_of_residence,arrivals,year,month,month_name
 2018-05-01,Malaysia,91244.0,2018,5,May
 2018-05-01,Philippines,83657.0,2018,5,May
 2018-05-01,Australia,78210.0,2018,5,May
-2018-05-01,Americas,62094.0,2018,5,May
 2018-05-01,Japan,53474.0,2018,5,May
 2018-05-01,Vietnam,53025.0,2018,5,May
 2018-05-01,Thailand,49858.0,2018,5,May
@@ -5504,7 +5379,6 @@ date,place_of_residence,arrivals,year,month,month_name
 2018-06-01,India,154945.0,2018,6,June
 2018-06-01,Malaysia,113049.0,2018,6,June
 2018-06-01,Australia,90665.0,2018,6,June
-2018-06-01,Americas,70116.0,2018,6,June
 2018-06-01,Vietnam,69697.0,2018,6,June
 2018-06-01,Philippines,68932.0,2018,6,June
 2018-06-01,USA,57674.0,2018,6,June
@@ -5549,7 +5423,6 @@ date,place_of_residence,arrivals,year,month,month_name
 2018-07-01,Australia,108107.0,2018,7,July
 2018-07-01,Malaysia,94611.0,2018,7,July
 2018-07-01,Vietnam,79816.0,2018,7,July
-2018-07-01,Americas,76827.0,2018,7,July
 2018-07-01,Japan,68146.0,2018,7,July
 2018-07-01,Philippines,64757.0,2018,7,July
 2018-07-01,USA,60786.0,2018,7,July
@@ -5595,7 +5468,6 @@ date,place_of_residence,arrivals,year,month,month_name
 2018-08-01,Australia,83185.0,2018,8,August
 2018-08-01,Philippines,63556.0,2018,8,August
 2018-08-01,South Korea,62729.0,2018,8,August
-2018-08-01,Americas,60752.0,2018,8,August
 2018-08-01,Vietnam,60051.0,2018,8,August
 2018-08-01,Hong Kong SAR,56484.0,2018,8,August
 2018-08-01,United Kingdom,51036.0,2018,8,August
@@ -5638,7 +5510,6 @@ date,place_of_residence,arrivals,year,month,month_name
 2018-09-01,India,102251.0,2018,9,September
 2018-09-01,Japan,77013.0,2018,9,September
 2018-09-01,Philippines,57241.0,2018,9,September
-2018-09-01,Americas,56056.0,2018,9,September
 2018-09-01,United Kingdom,53207.0,2018,9,September
 2018-09-01,South Korea,47734.0,2018,9,September
 2018-09-01,Vietnam,43407.0,2018,9,September
@@ -5683,7 +5554,6 @@ date,place_of_residence,arrivals,year,month,month_name
 2018-10-01,Japan,74019.0,2018,10,October
 2018-10-01,Philippines,68218.0,2018,10,October
 2018-10-01,Thailand,65734.0,2018,10,October
-2018-10-01,Americas,62266.0,2018,10,October
 2018-10-01,South Korea,53926.0,2018,10,October
 2018-10-01,United Kingdom,48279.0,2018,10,October
 2018-10-01,USA,46260.0,2018,10,October
@@ -5723,7 +5593,6 @@ date,place_of_residence,arrivals,year,month,month_name
 2018-11-01,China,220053.0,2018,11,November
 2018-11-01,India,121319.0,2018,11,November
 2018-11-01,Malaysia,117793.0,2018,11,November
-2018-11-01,Americas,75548.0,2018,11,November
 2018-11-01,Australia,74827.0,2018,11,November
 2018-11-01,Japan,73787.0,2018,11,November
 2018-11-01,Philippines,66526.0,2018,11,November
@@ -5768,7 +5637,6 @@ date,place_of_residence,arrivals,year,month,month_name
 2018-12-01,Malaysia,142986.0,2018,12,December
 2018-12-01,India,117495.0,2018,12,December
 2018-12-01,Australia,104928.0,2018,12,December
-2018-12-01,Americas,85208.0,2018,12,December
 2018-12-01,Philippines,72787.0,2018,12,December
 2018-12-01,USA,64115.0,2018,12,December
 2018-12-01,Japan,63738.0,2018,12,December
@@ -5811,7 +5679,6 @@ date,place_of_residence,arrivals,year,month,month_name
 2019-01-01,Indonesia,261622.0,2019,1,January
 2019-01-01,Australia,122672.0,2019,1,January
 2019-01-01,India,104562.0,2019,1,January
-2019-01-01,Americas,92393.0,2019,1,January
 2019-01-01,Malaysia,88293.0,2019,1,January
 2019-01-01,South Korea,72704.0,2019,1,January
 2019-01-01,USA,67151.0,2019,1,January
@@ -5855,7 +5722,6 @@ date,place_of_residence,arrivals,year,month,month_name
 2019-02-01,Indonesia,213991.0,2019,2,February
 2019-02-01,India,88926.0,2019,2,February
 2019-02-01,Malaysia,88706.0,2019,2,February
-2019-02-01,Americas,77043.0,2019,2,February
 2019-02-01,Japan,69885.0,2019,2,February
 2019-02-01,Australia,66199.0,2019,2,February
 2019-02-01,United Kingdom,62481.0,2019,2,February
@@ -5899,7 +5765,6 @@ date,place_of_residence,arrivals,year,month,month_name
 2019-03-01,Indonesia,249164.0,2019,3,March
 2019-03-01,India,106506.0,2019,3,March
 2019-03-01,Malaysia,106200.0,2019,3,March
-2019-03-01,Americas,91115.0,2019,3,March
 2019-03-01,Japan,84048.0,2019,3,March
 2019-03-01,Australia,73841.0,2019,3,March
 2019-03-01,United Kingdom,66796.0,2019,3,March
@@ -5945,7 +5810,6 @@ date,place_of_residence,arrivals,year,month,month_name
 2019-04-01,Australia,107503.0,2019,4,April
 2019-04-01,Malaysia,95076.0,2019,4,April
 2019-04-01,Philippines,83453.0,2019,4,April
-2019-04-01,Americas,75440.0,2019,4,April
 2019-04-01,Japan,65212.0,2019,4,April
 2019-04-01,Thailand,57010.0,2019,4,April
 2019-04-01,United Kingdom,56004.0,2019,4,April
@@ -5989,7 +5853,6 @@ date,place_of_residence,arrivals,year,month,month_name
 2019-05-01,Malaysia,106518.0,2019,5,May
 2019-05-01,Philippines,89800.0,2019,5,May
 2019-05-01,Australia,80476.0,2019,5,May
-2019-05-01,Americas,69238.0,2019,5,May
 2019-05-01,Japan,59138.0,2019,5,May
 2019-05-01,USA,51455.0,2019,5,May
 2019-05-01,Vietnam,49071.0,2019,5,May
@@ -6032,7 +5895,6 @@ date,place_of_residence,arrivals,year,month,month_name
 2019-06-01,India,144118.0,2019,6,June
 2019-06-01,Malaysia,102074.0,2019,6,June
 2019-06-01,Australia,87793.0,2019,6,June
-2019-06-01,Americas,81305.0,2019,6,June
 2019-06-01,Philippines,73977.0,2019,6,June
 2019-06-01,Vietnam,72441.0,2019,6,June
 2019-06-01,USA,67088.0,2019,6,June
@@ -6076,7 +5938,6 @@ date,place_of_residence,arrivals,year,month,month_name
 2019-07-01,India,112026.0,2019,7,July
 2019-07-01,Australia,107383.0,2019,7,July
 2019-07-01,Malaysia,93071.0,2019,7,July
-2019-07-01,Americas,88663.0,2019,7,July
 2019-07-01,Vietnam,78515.0,2019,7,July
 2019-07-01,Japan,71410.0,2019,7,July
 2019-07-01,USA,71343.0,2019,7,July
@@ -6121,7 +5982,6 @@ date,place_of_residence,arrivals,year,month,month_name
 2019-08-01,Japan,108104.0,2019,8,August
 2019-08-01,Malaysia,100225.0,2019,8,August
 2019-08-01,Australia,84023.0,2019,8,August
-2019-08-01,Americas,71328.0,2019,8,August
 2019-08-01,Philippines,66587.0,2019,8,August
 2019-08-01,South Korea,65643.0,2019,8,August
 2019-08-01,Vietnam,59034.0,2019,8,August
@@ -6165,7 +6025,6 @@ date,place_of_residence,arrivals,year,month,month_name
 2019-09-01,India,105075.0,2019,9,September
 2019-09-01,Malaysia,98438.0,2019,9,September
 2019-09-01,Japan,80823.0,2019,9,September
-2019-09-01,Americas,64342.0,2019,9,September
 2019-09-01,Philippines,62660.0,2019,9,September
 2019-09-01,South Korea,51660.0,2019,9,September
 2019-09-01,United Kingdom,49918.0,2019,9,September
@@ -6210,7 +6069,6 @@ date,place_of_residence,arrivals,year,month,month_name
 2019-10-01,Australia,97092.0,2019,10,October
 2019-10-01,Japan,80106.0,2019,10,October
 2019-10-01,Philippines,73812.0,2019,10,October
-2019-10-01,Americas,68654.0,2019,10,October
 2019-10-01,Thailand,63335.0,2019,10,October
 2019-10-01,South Korea,56598.0,2019,10,October
 2019-10-01,USA,52674.0,2019,10,October
@@ -6252,7 +6110,6 @@ date,place_of_residence,arrivals,year,month,month_name
 2019-11-01,India,113717.0,2019,11,November
 2019-11-01,Malaysia,111473.0,2019,11,November
 2019-11-01,Australia,89052.0,2019,11,November
-2019-11-01,Americas,82972.0,2019,11,November
 2019-11-01,Japan,72765.0,2019,11,November
 2019-11-01,Philippines,72701.0,2019,11,November
 2019-11-01,USA,63363.0,2019,11,November
@@ -6296,7 +6153,6 @@ date,place_of_residence,arrivals,year,month,month_name
 2019-12-01,Malaysia,133278.0,2019,12,December
 2019-12-01,Australia,117796.0,2019,12,December
 2019-12-01,India,115193.0,2019,12,December
-2019-12-01,Americas,100218.0,2019,12,December
 2019-12-01,Philippines,76603.0,2019,12,December
 2019-12-01,USA,76133.0,2019,12,December
 2019-12-01,Japan,69706.0,2019,12,December
@@ -6339,7 +6195,6 @@ date,place_of_residence,arrivals,year,month,month_name
 2020-01-01,Indonesia,282144.0,2020,1,January
 2020-01-01,Australia,130626.0,2020,1,January
 2020-01-01,India,99643.0,2020,1,January
-2020-01-01,Americas,98790.0,2020,1,January
 2020-01-01,Malaysia,90720.0,2020,1,January
 2020-01-01,USA,72577.0,2020,1,January
 2020-01-01,South Korea,70277.0,2020,1,January
@@ -6381,7 +6236,6 @@ date,place_of_residence,arrivals,year,month,month_name
 2020-01-01,Others,1.0,2020,1,January
 2020-02-01,Indonesia,115351.0,2020,2,February
 2020-02-01,Australia,54791.0,2020,2,February
-2020-02-01,Americas,53615.0,2020,2,February
 2020-02-01,Japan,53425.0,2020,2,February
 2020-02-01,India,52946.0,2020,2,February
 2020-02-01,United Kingdom,49475.0,2020,2,February
@@ -6427,7 +6281,6 @@ date,place_of_residence,arrivals,year,month,month_name
 2020-03-01,United Kingdom,20614.0,2020,3,March
 2020-03-01,Australia,18736.0,2020,3,March
 2020-03-01,India,17848.0,2020,3,March
-2020-03-01,Americas,15567.0,2020,3,March
 2020-03-01,Malaysia,14887.0,2020,3,March
 2020-03-01,Germany,14758.0,2020,3,March
 2020-03-01,Philippines,11860.0,2020,3,March
@@ -6476,7 +6329,6 @@ date,place_of_residence,arrivals,year,month,month_name
 2020-04-01,China,18.0,2020,4,April
 2020-04-01,United Kingdom,18.0,2020,4,April
 2020-04-01,Hong Kong SAR,13.0,2020,4,April
-2020-04-01,Americas,13.0,2020,4,April
 2020-04-01,USA,13.0,2020,4,April
 2020-04-01,South Korea,9.0,2020,4,April
 2020-04-01,Russian Federation,7.0,2020,4,April
@@ -6516,7 +6368,6 @@ date,place_of_residence,arrivals,year,month,month_name
 2020-05-01,Thailand,138.0,2020,5,May
 2020-05-01,India,79.0,2020,5,May
 2020-05-01,Philippines,65.0,2020,5,May
-2020-05-01,Americas,38.0,2020,5,May
 2020-05-01,USA,34.0,2020,5,May
 2020-05-01,Japan,30.0,2020,5,May
 2020-05-01,China,23.0,2020,5,May
@@ -6558,7 +6409,6 @@ date,place_of_residence,arrivals,year,month,month_name
 2020-06-01,Malaysia,464.0,2020,6,June
 2020-06-01,Indonesia,301.0,2020,6,June
 2020-06-01,Thailand,158.0,2020,6,June
-2020-06-01,Americas,153.0,2020,6,June
 2020-06-01,Japan,137.0,2020,6,June
 2020-06-01,India,130.0,2020,6,June
 2020-06-01,USA,130.0,2020,6,June
@@ -6604,7 +6454,6 @@ date,place_of_residence,arrivals,year,month,month_name
 2020-07-01,India,634.0,2020,7,July
 2020-07-01,Malaysia,626.0,2020,7,July
 2020-07-01,Japan,565.0,2020,7,July
-2020-07-01,Americas,443.0,2020,7,July
 2020-07-01,Philippines,400.0,2020,7,July
 2020-07-01,USA,360.0,2020,7,July
 2020-07-01,Hong Kong SAR,333.0,2020,7,July
@@ -6648,7 +6497,6 @@ date,place_of_residence,arrivals,year,month,month_name
 2020-08-01,Malaysia,718.0,2020,8,August
 2020-08-01,India,581.0,2020,8,August
 2020-08-01,Japan,511.0,2020,8,August
-2020-08-01,Americas,506.0,2020,8,August
 2020-08-01,Philippines,480.0,2020,8,August
 2020-08-01,USA,400.0,2020,8,August
 2020-08-01,Hong Kong SAR,342.0,2020,8,August
@@ -6690,7 +6538,6 @@ date,place_of_residence,arrivals,year,month,month_name
 2020-09-01,China,2422.0,2020,9,September
 2020-09-01,Indonesia,1428.0,2020,9,September
 2020-09-01,Malaysia,1063.0,2020,9,September
-2020-09-01,Americas,443.0,2020,9,September
 2020-09-01,India,394.0,2020,9,September
 2020-09-01,Philippines,360.0,2020,9,September
 2020-09-01,USA,356.0,2020,9,September
@@ -6737,7 +6584,6 @@ date,place_of_residence,arrivals,year,month,month_name
 2020-10-01,Philippines,1076.0,2020,10,October
 2020-10-01,Vietnam,759.0,2020,10,October
 2020-10-01,Japan,513.0,2020,10,October
-2020-10-01,Americas,506.0,2020,10,October
 2020-10-01,India,428.0,2020,10,October
 2020-10-01,USA,407.0,2020,10,October
 2020-10-01,Myanmar,331.0,2020,10,October
@@ -6781,7 +6627,6 @@ date,place_of_residence,arrivals,year,month,month_name
 2020-11-01,Japan,763.0,2020,11,November
 2020-11-01,Philippines,710.0,2020,11,November
 2020-11-01,Vietnam,566.0,2020,11,November
-2020-11-01,Americas,522.0,2020,11,November
 2020-11-01,India,500.0,2020,11,November
 2020-11-01,Myanmar,472.0,2020,11,November
 2020-11-01,Australia,438.0,2020,11,November
@@ -6828,7 +6673,6 @@ date,place_of_residence,arrivals,year,month,month_name
 2020-12-01,Vietnam,803.0,2020,12,December
 2020-12-01,Myanmar,716.0,2020,12,December
 2020-12-01,Japan,712.0,2020,12,December
-2020-12-01,Americas,656.0,2020,12,December
 2020-12-01,USA,515.0,2020,12,December
 2020-12-01,Hong Kong SAR,510.0,2020,12,December
 2020-12-01,South Korea,437.0,2020,12,December
@@ -6870,7 +6714,6 @@ date,place_of_residence,arrivals,year,month,month_name
 2021-01-01,Myanmar,1223.0,2021,1,January
 2021-01-01,Bangladesh,1027.0,2021,1,January
 2021-01-01,Philippines,763.0,2021,1,January
-2021-01-01,Americas,669.0,2021,1,January
 2021-01-01,Australia,579.0,2021,1,January
 2021-01-01,Japan,555.0,2021,1,January
 2021-01-01,Vietnam,553.0,2021,1,January
@@ -6914,7 +6757,6 @@ date,place_of_residence,arrivals,year,month,month_name
 2021-02-01,Malaysia,1130.0,2021,2,February
 2021-02-01,Myanmar,905.0,2021,2,February
 2021-02-01,Philippines,880.0,2021,2,February
-2021-02-01,Americas,523.0,2021,2,February
 2021-02-01,USA,387.0,2021,2,February
 2021-02-01,South Korea,385.0,2021,2,February
 2021-02-01,Japan,358.0,2021,2,February
@@ -6959,7 +6801,6 @@ date,place_of_residence,arrivals,year,month,month_name
 2021-03-01,Philippines,1112.0,2021,3,March
 2021-03-01,Myanmar,964.0,2021,3,March
 2021-03-01,Japan,601.0,2021,3,March
-2021-03-01,Americas,582.0,2021,3,March
 2021-03-01,USA,423.0,2021,3,March
 2021-03-01,South Korea,405.0,2021,3,March
 2021-03-01,Vietnam,363.0,2021,3,March
@@ -7003,7 +6844,6 @@ date,place_of_residence,arrivals,year,month,month_name
 2021-04-01,Myanmar,1176.0,2021,4,April
 2021-04-01,Japan,797.0,2021,4,April
 2021-04-01,Philippines,789.0,2021,4,April
-2021-04-01,Americas,684.0,2021,4,April
 2021-04-01,USA,563.0,2021,4,April
 2021-04-01,Taiwan,302.0,2021,4,April
 2021-04-01,South Korea,271.0,2021,4,April
@@ -7044,7 +6884,6 @@ date,place_of_residence,arrivals,year,month,month_name
 2021-05-01,Malaysia,844.0,2021,5,May
 2021-05-01,Philippines,745.0,2021,5,May
 2021-05-01,Myanmar,720.0,2021,5,May
-2021-05-01,Americas,342.0,2021,5,May
 2021-05-01,Japan,281.0,2021,5,May
 2021-05-01,Hong Kong SAR,276.0,2021,5,May
 2021-05-01,USA,254.0,2021,5,May
@@ -7088,7 +6927,6 @@ date,place_of_residence,arrivals,year,month,month_name
 2021-06-01,Malaysia,402.0,2021,6,June
 2021-06-01,Hong Kong SAR,361.0,2021,6,June
 2021-06-01,Philippines,262.0,2021,6,June
-2021-06-01,Americas,245.0,2021,6,June
 2021-06-01,USA,206.0,2021,6,June
 2021-06-01,Australia,193.0,2021,6,June
 2021-06-01,Myanmar,175.0,2021,6,June
@@ -7128,7 +6966,6 @@ date,place_of_residence,arrivals,year,month,month_name
 2021-06-01,Mauritius,0.0,2021,6,June
 2021-06-01,Others,0.0,2021,6,June
 2021-07-01,China,12669.0,2021,7,July
-2021-07-01,Americas,777.0,2021,7,July
 2021-07-01,Hong Kong SAR,750.0,2021,7,July
 2021-07-01,USA,685.0,2021,7,July
 2021-07-01,Malaysia,554.0,2021,7,July
@@ -7172,7 +7009,6 @@ date,place_of_residence,arrivals,year,month,month_name
 2021-07-01,Egypt,0.0,2021,7,July
 2021-07-01,Mauritius,0.0,2021,7,July
 2021-08-01,China,8907.0,2021,8,August
-2021-08-01,Americas,1001.0,2021,8,August
 2021-08-01,USA,828.0,2021,8,August
 2021-08-01,Malaysia,683.0,2021,8,August
 2021-08-01,Hong Kong SAR,602.0,2021,8,August
@@ -7216,7 +7052,6 @@ date,place_of_residence,arrivals,year,month,month_name
 2021-08-01,Bangladesh,2.0,2021,8,August
 2021-08-01,Iran,2.0,2021,8,August
 2021-09-01,China,8952.0,2021,9,September
-2021-09-01,Americas,867.0,2021,9,September
 2021-09-01,Malaysia,797.0,2021,9,September
 2021-09-01,Japan,780.0,2021,9,September
 2021-09-01,Germany,769.0,2021,9,September
@@ -7263,7 +7098,6 @@ date,place_of_residence,arrivals,year,month,month_name
 2021-10-01,India,2936.0,2021,10,October
 2021-10-01,Malaysia,2104.0,2021,10,October
 2021-10-01,Indonesia,1954.0,2021,10,October
-2021-10-01,Americas,1092.0,2021,10,October
 2021-10-01,Bangladesh,1079.0,2021,10,October
 2021-10-01,Philippines,1042.0,2021,10,October
 2021-10-01,Germany,997.0,2021,10,October
@@ -7309,7 +7143,6 @@ date,place_of_residence,arrivals,year,month,month_name
 2021-11-01,China,3479.0,2021,11,November
 2021-11-01,Malaysia,2537.0,2021,11,November
 2021-11-01,Philippines,2450.0,2021,11,November
-2021-11-01,Americas,2231.0,2021,11,November
 2021-11-01,United Kingdom,2117.0,2021,11,November
 2021-11-01,USA,1890.0,2021,11,November
 2021-11-01,Australia,1624.0,2021,11,November
@@ -7353,7 +7186,6 @@ date,place_of_residence,arrivals,year,month,month_name
 2021-12-01,Bangladesh,5559.0,2021,12,December
 2021-12-01,Australia,5525.0,2021,12,December
 2021-12-01,China,4764.0,2021,12,December
-2021-12-01,Americas,4590.0,2021,12,December
 2021-12-01,USA,3720.0,2021,12,December
 2021-12-01,United Kingdom,3668.0,2021,12,December
 2021-12-01,Myanmar,2991.0,2021,12,December
@@ -7398,7 +7230,6 @@ date,place_of_residence,arrivals,year,month,month_name
 2022-01-01,China,4361.0,2022,1,January
 2022-01-01,Australia,3759.0,2022,1,January
 2022-01-01,Myanmar,2954.0,2022,1,January
-2022-01-01,Americas,2928.0,2022,1,January
 2022-01-01,United Kingdom,2362.0,2022,1,January
 2022-01-01,USA,2264.0,2022,1,January
 2022-01-01,South Korea,1953.0,2022,1,January
@@ -7439,7 +7270,6 @@ date,place_of_residence,arrivals,year,month,month_name
 2022-02-01,Indonesia,6872.0,2022,2,February
 2022-02-01,Australia,4546.0,2022,2,February
 2022-02-01,Malaysia,4468.0,2022,2,February
-2022-02-01,Americas,4442.0,2022,2,February
 2022-02-01,China,3823.0,2022,2,February
 2022-02-01,United Kingdom,3797.0,2022,2,February
 2022-02-01,USA,3775.0,2022,2,February
@@ -7484,7 +7314,6 @@ date,place_of_residence,arrivals,year,month,month_name
 2022-03-01,Malaysia,10610.0,2022,3,March
 2022-03-01,Australia,7883.0,2022,3,March
 2022-03-01,Bangladesh,7480.0,2022,3,March
-2022-03-01,Americas,6521.0,2022,3,March
 2022-03-01,Philippines,6250.0,2022,3,March
 2022-03-01,United Kingdom,5498.0,2022,3,March
 2022-03-01,USA,5448.0,2022,3,March
@@ -7529,7 +7358,6 @@ date,place_of_residence,arrivals,year,month,month_name
 2022-04-01,Malaysia,25319.0,2022,4,April
 2022-04-01,Philippines,16940.0,2022,4,April
 2022-04-01,Vietnam,16657.0,2022,4,April
-2022-04-01,Americas,14729.0,2022,4,April
 2022-04-01,USA,12001.0,2022,4,April
 2022-04-01,United Kingdom,10811.0,2022,4,April
 2022-04-01,Thailand,10647.0,2022,4,April
@@ -7571,7 +7399,6 @@ date,place_of_residence,arrivals,year,month,month_name
 2022-05-01,India,59198.0,2022,5,May
 2022-05-01,Malaysia,43214.0,2022,5,May
 2022-05-01,Australia,31406.0,2022,5,May
-2022-05-01,Americas,25106.0,2022,5,May
 2022-05-01,Philippines,22379.0,2022,5,May
 2022-05-01,Vietnam,21570.0,2022,5,May
 2022-05-01,USA,19764.0,2022,5,May
@@ -7616,7 +7443,6 @@ date,place_of_residence,arrivals,year,month,month_name
 2022-06-01,Australia,50412.0,2022,6,June
 2022-06-01,Malaysia,49878.0,2022,6,June
 2022-06-01,Vietnam,36857.0,2022,6,June
-2022-06-01,Americas,36723.0,2022,6,June
 2022-06-01,Philippines,32139.0,2022,6,June
 2022-06-01,USA,30990.0,2022,6,June
 2022-06-01,Thailand,23406.0,2022,6,June
@@ -7660,7 +7486,6 @@ date,place_of_residence,arrivals,year,month,month_name
 2022-07-01,Australia,68378.0,2022,7,July
 2022-07-01,Malaysia,61575.0,2022,7,July
 2022-07-01,Vietnam,48870.0,2022,7,July
-2022-07-01,Americas,47365.0,2022,7,July
 2022-07-01,Philippines,45338.0,2022,7,July
 2022-07-01,USA,39120.0,2022,7,July
 2022-07-01,Thailand,36615.0,2022,7,July
@@ -7704,7 +7529,6 @@ date,place_of_residence,arrivals,year,month,month_name
 2022-08-01,Malaysia,63905.0,2022,8,August
 2022-08-01,Australia,56917.0,2022,8,August
 2022-08-01,Vietnam,48939.0,2022,8,August
-2022-08-01,Americas,44100.0,2022,8,August
 2022-08-01,Philippines,42542.0,2022,8,August
 2022-08-01,USA,34497.0,2022,8,August
 2022-08-01,Thailand,33284.0,2022,8,August
@@ -7747,7 +7571,6 @@ date,place_of_residence,arrivals,year,month,month_name
 2022-09-01,India,86393.0,2022,9,September
 2022-09-01,Australia,83070.0,2022,9,September
 2022-09-01,Malaysia,81914.0,2022,9,September
-2022-09-01,Americas,46342.0,2022,9,September
 2022-09-01,Philippines,44856.0,2022,9,September
 2022-09-01,Vietnam,41129.0,2022,9,September
 2022-09-01,USA,34503.0,2022,9,September
@@ -7793,7 +7616,6 @@ date,place_of_residence,arrivals,year,month,month_name
 2022-10-01,Australia,73728.0,2022,10,October
 2022-10-01,Philippines,56747.0,2022,10,October
 2022-10-01,Thailand,52274.0,2022,10,October
-2022-10-01,Americas,49922.0,2022,10,October
 2022-10-01,USA,36734.0,2022,10,October
 2022-10-01,Vietnam,36242.0,2022,10,October
 2022-10-01,United Kingdom,30244.0,2022,10,October
@@ -7835,7 +7657,6 @@ date,place_of_residence,arrivals,year,month,month_name
 2022-11-01,India,73694.0,2022,11,November
 2022-11-01,Malaysia,72305.0,2022,11,November
 2022-11-01,Australia,69046.0,2022,11,November
-2022-11-01,Americas,61086.0,2022,11,November
 2022-11-01,Philippines,54793.0,2022,11,November
 2022-11-01,USA,45666.0,2022,11,November
 2022-11-01,Thailand,34566.0,2022,11,November
@@ -7879,7 +7700,6 @@ date,place_of_residence,arrivals,year,month,month_name
 2022-12-01,Malaysia,95475.0,2022,12,December
 2022-12-01,Australia,89159.0,2022,12,December
 2022-12-01,India,74067.0,2022,12,December
-2022-12-01,Americas,67342.0,2022,12,December
 2022-12-01,Philippines,56509.0,2022,12,December
 2022-12-01,USA,53688.0,2022,12,December
 2022-12-01,Thailand,36006.0,2022,12,December
@@ -7922,7 +7742,6 @@ date,place_of_residence,arrivals,year,month,month_name
 2023-01-01,Indonesia,168975.0,2023,1,January
 2023-01-01,Australia,102888.0,2023,1,January
 2023-01-01,Malaysia,72756.0,2023,1,January
-2023-01-01,Americas,67902.0,2023,1,January
 2023-01-01,South Korea,60457.0,2023,1,January
 2023-01-01,India,56605.0,2023,1,January
 2023-01-01,USA,50492.0,2023,1,January
@@ -7965,7 +7784,6 @@ date,place_of_residence,arrivals,year,month,month_name
 2023-01-01,Others,120.0,2023,1,January
 2023-02-01,Indonesia,156448.0,2023,2,February
 2023-02-01,Malaysia,88040.0,2023,2,February
-2023-02-01,Americas,72702.0,2023,2,February
 2023-02-01,Australia,72385.0,2023,2,February
 2023-02-01,South Korea,64876.0,2023,2,February
 2023-02-01,India,61301.0,2023,2,February
@@ -8011,7 +7829,6 @@ date,place_of_residence,arrivals,year,month,month_name
 2023-03-01,Malaysia,97835.0,2023,3,March
 2023-03-01,India,75339.0,2023,3,March
 2023-03-01,Australia,74268.0,2023,3,March
-2023-03-01,Americas,73624.0,2023,3,March
 2023-03-01,China,60888.0,2023,3,March
 2023-03-01,USA,54157.0,2023,3,March
 2023-03-01,Philippines,50591.0,2023,3,March
@@ -8056,7 +7873,6 @@ date,place_of_residence,arrivals,year,month,month_name
 2023-04-01,India,97032.0,2023,4,April
 2023-04-01,Australia,92937.0,2023,4,April
 2023-04-01,China,90725.0,2023,4,April
-2023-04-01,Americas,61029.0,2023,4,April
 2023-04-01,Philippines,57030.0,2023,4,April
 2023-04-01,Thailand,49727.0,2023,4,April
 2023-04-01,USA,44779.0,2023,4,April
@@ -8100,7 +7916,6 @@ date,place_of_residence,arrivals,year,month,month_name
 2023-05-01,Malaysia,98347.0,2023,5,May
 2023-05-01,China,95613.0,2023,5,May
 2023-05-01,Australia,79700.0,2023,5,May
-2023-05-01,Americas,70426.0,2023,5,May
 2023-05-01,Philippines,59346.0,2023,5,May
 2023-05-01,USA,50898.0,2023,5,May
 2023-05-01,Vietnam,50765.0,2023,5,May
@@ -8145,7 +7960,6 @@ date,place_of_residence,arrivals,year,month,month_name
 2023-06-01,Australia,90770.0,2023,6,June
 2023-06-01,Malaysia,85945.0,2023,6,June
 2023-06-01,Philippines,71409.0,2023,6,June
-2023-06-01,Americas,70361.0,2023,6,June
 2023-06-01,USA,59074.0,2023,6,June
 2023-06-01,Vietnam,48924.0,2023,6,June
 2023-06-01,South Korea,40187.0,2023,6,June
@@ -8188,7 +8002,6 @@ date,place_of_residence,arrivals,year,month,month_name
 2023-07-01,Australia,98408.0,2023,7,July
 2023-07-01,India,93056.0,2023,7,July
 2023-07-01,Malaysia,84876.0,2023,7,July
-2023-07-01,Americas,81637.0,2023,7,July
 2023-07-01,Philippines,77160.0,2023,7,July
 2023-07-01,USA,64786.0,2023,7,July
 2023-07-01,South Korea,60960.0,2023,7,July
@@ -8233,7 +8046,6 @@ date,place_of_residence,arrivals,year,month,month_name
 2023-08-01,India,83601.0,2023,8,August
 2023-08-01,Australia,80605.0,2023,8,August
 2023-08-01,Japan,68304.0,2023,8,August
-2023-08-01,Americas,62996.0,2023,8,August
 2023-08-01,South Korea,62177.0,2023,8,August
 2023-08-01,Philippines,61802.0,2023,8,August
 2023-08-01,Vietnam,51381.0,2023,8,August
@@ -8276,7 +8088,6 @@ date,place_of_residence,arrivals,year,month,month_name
 2023-09-01,Australia,104497.0,2023,9,September
 2023-09-01,Malaysia,89384.0,2023,9,September
 2023-09-01,India,81016.0,2023,9,September
-2023-09-01,Americas,62765.0,2023,9,September
 2023-09-01,Philippines,50679.0,2023,9,September
 2023-09-01,South Korea,48187.0,2023,9,September
 2023-09-01,USA,46605.0,2023,9,September
@@ -8320,7 +8131,6 @@ date,place_of_residence,arrivals,year,month,month_name
 2023-10-01,India,94334.0,2023,10,October
 2023-10-01,Malaysia,88643.0,2023,10,October
 2023-10-01,Australia,88033.0,2023,10,October
-2023-10-01,Americas,60726.0,2023,10,October
 2023-10-01,Philippines,54649.0,2023,10,October
 2023-10-01,Thailand,53442.0,2023,10,October
 2023-10-01,South Korea,45621.0,2023,10,October
@@ -8364,7 +8174,6 @@ date,place_of_residence,arrivals,year,month,month_name
 2023-11-01,Malaysia,93414.0,2023,11,November
 2023-11-01,India,90231.0,2023,11,November
 2023-11-01,Australia,88201.0,2023,11,November
-2023-11-01,Americas,80020.0,2023,11,November
 2023-11-01,Philippines,61213.0,2023,11,November
 2023-11-01,USA,58805.0,2023,11,November
 2023-11-01,United Kingdom,43195.0,2023,11,November
@@ -8408,7 +8217,6 @@ date,place_of_residence,arrivals,year,month,month_name
 2023-12-01,Australia,112197.0,2023,12,December
 2023-12-01,Malaysia,102683.0,2023,12,December
 2023-12-01,India,92620.0,2023,12,December
-2023-12-01,Americas,83791.0,2023,12,December
 2023-12-01,USA,65946.0,2023,12,December
 2023-12-01,Philippines,62866.0,2023,12,December
 2023-12-01,United Kingdom,46184.0,2023,12,December
@@ -8451,7 +8259,6 @@ date,place_of_residence,arrivals,year,month,month_name
 2024-01-01,China,211150.0,2024,1,January
 2024-01-01,Australia,124075.0,2024,1,January
 2024-01-01,Malaysia,93442.0,2024,1,January
-2024-01-01,Americas,84236.0,2024,1,January
 2024-01-01,India,82113.0,2024,1,January
 2024-01-01,South Korea,79245.0,2024,1,January
 2024-01-01,USA,62001.0,2024,1,January
@@ -8494,7 +8301,6 @@ date,place_of_residence,arrivals,year,month,month_name
 2024-02-01,China,326860.0,2024,2,February
 2024-02-01,Indonesia,190747.0,2024,2,February
 2024-02-01,Malaysia,100081.0,2024,2,February
-2024-02-01,Americas,81005.0,2024,2,February
 2024-02-01,Australia,79370.0,2024,2,February
 2024-02-01,South Korea,69109.0,2024,2,February
 2024-02-01,United Kingdom,68124.0,2024,2,February
@@ -8541,7 +8347,6 @@ date,place_of_residence,arrivals,year,month,month_name
 2024-03-01,Philippines,100272.0,2024,3,March
 2024-03-01,India,97026.0,2024,3,March
 2024-03-01,Australia,90428.0,2024,3,March
-2024-03-01,Americas,85427.0,2024,3,March
 2024-03-01,United Kingdom,73495.0,2024,3,March
 2024-03-01,USA,64436.0,2024,3,March
 2024-03-01,Japan,54844.0,2024,3,March
@@ -8584,7 +8389,6 @@ date,place_of_residence,arrivals,year,month,month_name
 2024-04-01,India,106694.0,2024,4,April
 2024-04-01,Malaysia,106248.0,2024,4,April
 2024-04-01,Australia,96751.0,2024,4,April
-2024-04-01,Americas,68988.0,2024,4,April
 2024-04-01,Philippines,53135.0,2024,4,April
 2024-04-01,USA,49724.0,2024,4,April
 2024-04-01,United Kingdom,47462.0,2024,4,April
@@ -8628,7 +8432,6 @@ date,place_of_residence,arrivals,year,month,month_name
 2024-05-01,India,156517.0,2024,5,May
 2024-05-01,Malaysia,95761.0,2024,5,May
 2024-05-01,Australia,79688.0,2024,5,May
-2024-05-01,Americas,73314.0,2024,5,May
 2024-05-01,Philippines,58270.0,2024,5,May
 2024-05-01,USA,54517.0,2024,5,May
 2024-05-01,South Korea,39802.0,2024,5,May
@@ -8673,7 +8476,6 @@ date,place_of_residence,arrivals,year,month,month_name
 2024-06-01,Australia,88548.0,2024,6,June
 2024-06-01,Malaysia,83913.0,2024,6,June
 2024-06-01,Philippines,75957.0,2024,6,June
-2024-06-01,Americas,75679.0,2024,6,June
 2024-06-01,USA,61411.0,2024,6,June
 2024-06-01,Vietnam,42368.0,2024,6,June
 2024-06-01,South Korea,39405.0,2024,6,June
@@ -8716,7 +8518,6 @@ date,place_of_residence,arrivals,year,month,month_name
 2024-07-01,Australia,105706.0,2024,7,July
 2024-07-01,India,89642.0,2024,7,July
 2024-07-01,Malaysia,83146.0,2024,7,July
-2024-07-01,Americas,82707.0,2024,7,July
 2024-07-01,Philippines,72558.0,2024,7,July
 2024-07-01,USA,65244.0,2024,7,July
 2024-07-01,South Korea,57385.0,2024,7,July
@@ -8761,7 +8562,6 @@ date,place_of_residence,arrivals,year,month,month_name
 2024-08-01,Australia,82959.0,2024,8,August
 2024-08-01,Japan,81803.0,2024,8,August
 2024-08-01,Malaysia,79895.0,2024,8,August
-2024-08-01,Americas,67753.0,2024,8,August
 2024-08-01,South Korea,60986.0,2024,8,August
 2024-08-01,Philippines,60174.0,2024,8,August
 2024-08-01,USA,51082.0,2024,8,August
@@ -8804,7 +8604,6 @@ date,place_of_residence,arrivals,year,month,month_name
 2024-09-01,Malaysia,112151.0,2024,9,September
 2024-09-01,Australia,110930.0,2024,9,September
 2024-09-01,India,87767.0,2024,9,September
-2024-09-01,Americas,64689.0,2024,9,September
 2024-09-01,Japan,57825.0,2024,9,September
 2024-09-01,Philippines,55976.0,2024,9,September
 2024-09-01,USA,47493.0,2024,9,September
@@ -8848,7 +8647,6 @@ date,place_of_residence,arrivals,year,month,month_name
 2024-10-01,Malaysia,103432.0,2024,10,October
 2024-10-01,India,102233.0,2024,10,October
 2024-10-01,Australia,100935.0,2024,10,October
-2024-10-01,Americas,69879.0,2024,10,October
 2024-10-01,Philippines,61489.0,2024,10,October
 2024-10-01,Japan,51819.0,2024,10,October
 2024-10-01,USA,50339.0,2024,10,October
@@ -8892,7 +8690,6 @@ date,place_of_residence,arrivals,year,month,month_name
 2024-11-01,Malaysia,101920.0,2024,11,November
 2024-11-01,India,92905.0,2024,11,November
 2024-11-01,Australia,92661.0,2024,11,November
-2024-11-01,Americas,86005.0,2024,11,November
 2024-11-01,Philippines,66942.0,2024,11,November
 2024-11-01,USA,61005.0,2024,11,November
 2024-11-01,United Kingdom,48607.0,2024,11,November
@@ -8936,7 +8733,6 @@ date,place_of_residence,arrivals,year,month,month_name
 2024-12-01,Australia,122321.0,2024,12,December
 2024-12-01,Malaysia,105622.0,2024,12,December
 2024-12-01,India,103740.0,2024,12,December
-2024-12-01,Americas,84452.0,2024,12,December
 2024-12-01,Philippines,72162.0,2024,12,December
 2024-12-01,USA,64842.0,2024,12,December
 2024-12-01,United Kingdom,44650.0,2024,12,December
@@ -8979,7 +8775,6 @@ date,place_of_residence,arrivals,year,month,month_name
 2025-01-01,Indonesia,251772.0,2025,1,January
 2025-01-01,Australia,141337.0,2025,1,January
 2025-01-01,Malaysia,102328.0,2025,1,January
-2025-01-01,Americas,97422.0,2025,1,January
 2025-01-01,India,85400.0,2025,1,January
 2025-01-01,South Korea,79301.0,2025,1,January
 2025-01-01,USA,70962.0,2025,1,January
@@ -9022,7 +8817,6 @@ date,place_of_residence,arrivals,year,month,month_name
 2025-02-01,China,267974.0,2025,2,February
 2025-02-01,Indonesia,192616.0,2025,2,February
 2025-02-01,Malaysia,105762.0,2025,2,February
-2025-02-01,Americas,89921.0,2025,2,February
 2025-02-01,Australia,85012.0,2025,2,February
 2025-02-01,India,74869.0,2025,2,February
 2025-02-01,South Korea,72230.0,2025,2,February
@@ -9067,7 +8861,6 @@ date,place_of_residence,arrivals,year,month,month_name
 2025-03-01,China,187036.0,2025,3,March
 2025-03-01,Malaysia,104150.0,2025,3,March
 2025-03-01,India,101198.0,2025,3,March
-2025-03-01,Americas,94760.0,2025,3,March
 2025-03-01,Australia,81781.0,2025,3,March
 2025-03-01,USA,68300.0,2025,3,March
 2025-03-01,Japan,65548.0,2025,3,March
@@ -9112,7 +8905,6 @@ date,place_of_residence,arrivals,year,month,month_name
 2025-04-01,India,118660.0,2025,4,April
 2025-04-01,Australia,116848.0,2025,4,April
 2025-04-01,Malaysia,109253.0,2025,4,April
-2025-04-01,Americas,74503.0,2025,4,April
 2025-04-01,Philippines,69047.0,2025,4,April
 2025-04-01,United Kingdom,56713.0,2025,4,April
 2025-04-01,USA,54197.0,2025,4,April
@@ -9157,7 +8949,6 @@ date,place_of_residence,arrivals,year,month,month_name
 2025-05-01,Malaysia,111673.0,2025,5,May
 2025-05-01,Australia,90145.0,2025,5,May
 2025-05-01,Philippines,74560.0,2025,5,May
-2025-05-01,Americas,65892.0,2025,5,May
 2025-05-01,USA,47768.0,2025,5,May
 2025-05-01,Japan,40441.0,2025,5,May
 2025-05-01,South Korea,39936.0,2025,5,May
@@ -9200,7 +8991,6 @@ date,place_of_residence,arrivals,year,month,month_name
 2025-06-01,India,112726.0,2025,6,June
 2025-06-01,Malaysia,100986.0,2025,6,June
 2025-06-01,Australia,90887.0,2025,6,June
-2025-06-01,Americas,76490.0,2025,6,June
 2025-06-01,Philippines,66647.0,2025,6,June
 2025-06-01,USA,62920.0,2025,6,June
 2025-06-01,Vietnam,37168.0,2025,6,June
@@ -9243,7 +9033,6 @@ date,place_of_residence,arrivals,year,month,month_name
 2025-07-01,Indonesia,223463.0,2025,7,July
 2025-07-01,Australia,121503.0,2025,7,July
 2025-07-01,Malaysia,88384.0,2025,7,July
-2025-07-01,Americas,86787.0,2025,7,July
 2025-07-01,India,85791.0,2025,7,July
 2025-07-01,USA,67604.0,2025,7,July
 2025-07-01,Philippines,62381.0,2025,7,July
@@ -9289,7 +9078,6 @@ date,place_of_residence,arrivals,year,month,month_name
 2025-08-01,India,91142.0,2025,8,August
 2025-08-01,Malaysia,88675.0,2025,8,August
 2025-08-01,Australia,84925.0,2025,8,August
-2025-08-01,Americas,67200.0,2025,8,August
 2025-08-01,South Korea,64983.0,2025,8,August
 2025-08-01,Philippines,61462.0,2025,8,August
 2025-08-01,United Kingdom,53247.0,2025,8,August
@@ -9332,7 +9120,6 @@ date,place_of_residence,arrivals,year,month,month_name
 2025-09-01,Malaysia,120634.0,2025,9,September
 2025-09-01,Australia,107322.0,2025,9,September
 2025-09-01,India,99039.0,2025,9,September
-2025-09-01,Americas,60482.0,2025,9,September
 2025-09-01,Japan,59315.0,2025,9,September
 2025-09-01,Philippines,51355.0,2025,9,September
 2025-09-01,USA,44191.0,2025,9,September
@@ -9376,7 +9163,6 @@ date,place_of_residence,arrivals,year,month,month_name
 2025-10-01,Australia,116372.0,2025,10,October
 2025-10-01,Malaysia,110304.0,2025,10,October
 2025-10-01,India,103054.0,2025,10,October
-2025-10-01,Americas,70842.0,2025,10,October
 2025-10-01,Philippines,64398.0,2025,10,October
 2025-10-01,Japan,54862.0,2025,10,October
 2025-10-01,South Korea,50782.0,2025,10,October
@@ -9419,7 +9205,6 @@ date,place_of_residence,arrivals,year,month,month_name
 2025-11-01,Indonesia,181469.0,2025,11,November
 2025-11-01,Malaysia,117164.0,2025,11,November
 2025-11-01,Australia,103833.0,2025,11,November
-2025-11-01,Americas,87880.0,2025,11,November
 2025-11-01,India,84256.0,2025,11,November
 2025-11-01,USA,63219.0,2025,11,November
 2025-11-01,Philippines,59865.0,2025,11,November
@@ -9464,7 +9249,6 @@ date,place_of_residence,arrivals,year,month,month_name
 2025-12-01,Australia,127495.0,2025,12,December
 2025-12-01,Malaysia,116081.0,2025,12,December
 2025-12-01,India,96662.0,2025,12,December
-2025-12-01,Americas,94886.0,2025,12,December
 2025-12-01,USA,71933.0,2025,12,December
 2025-12-01,Philippines,65511.0,2025,12,December
 2025-12-01,United Kingdom,45763.0,2025,12,December
@@ -9507,7 +9291,6 @@ date,place_of_residence,arrivals,year,month,month_name
 2026-01-01,Indonesia,218818.0,2026,1,January
 2026-01-01,Australia,140988.0,2026,1,January
 2026-01-01,Malaysia,116800.0,2026,1,January
-2026-01-01,Americas,99809.0,2026,1,January
 2026-01-01,India,86430.0,2026,1,January
 2026-01-01,USA,71556.0,2026,1,January
 2026-01-01,South Korea,69244.0,2026,1,January
@@ -9550,7 +9333,6 @@ date,place_of_residence,arrivals,year,month,month_name
 2026-02-01,China,432328.0,2026,2,February
 2026-02-01,Indonesia,167039.0,2026,2,February
 2026-02-01,Malaysia,90211.0,2026,2,February
-2026-02-01,Americas,85810.0,2026,2,February
 2026-02-01,Australia,80750.0,2026,2,February
 2026-02-01,South Korea,65674.0,2026,2,February
 2026-02-01,India,65041.0,2026,2,February
@@ -9594,7 +9376,6 @@ date,place_of_residence,arrivals,year,month,month_name
 2026-03-01,Indonesia,240368.0,2026,3,March
 2026-03-01,China,209094.0,2026,3,March
 2026-03-01,Malaysia,131898.0,2026,3,March
-2026-03-01,Americas,100338.0,2026,3,March
 2026-03-01,India,95910.0,2026,3,March
 2026-03-01,Australia,90148.0,2026,3,March
 2026-03-01,Japan,73298.0,2026,3,March
@@ -9640,7 +9421,6 @@ date,place_of_residence,arrivals,year,month,month_name
 2026-04-01,Australia,115343.0,2026,4,April
 2026-04-01,India,107157.0,2026,4,April
 2026-04-01,Malaysia,99298.0,2026,4,April
-2026-04-01,Americas,82301.0,2026,4,April
 2026-04-01,Philippines,71477.0,2026,4,April
 2026-04-01,USA,60189.0,2026,4,April
 2026-04-01,Thailand,48899.0,2026,4,April
@@ -9685,7 +9465,6 @@ date,place_of_residence,arrivals,year,month,month_name
 2026-05-01,Malaysia,111905.0,2026,5,May
 2026-05-01,Australia,83512.0,2026,5,May
 2026-05-01,Philippines,68985.0,2026,5,May
-2026-05-01,Americas,68019.0,2026,5,May
 2026-05-01,USA,50390.0,2026,5,May
 2026-05-01,Japan,44950.0,2026,5,May
 2026-05-01,South Korea,31917.0,2026,5,May
@@ -9728,7 +9507,6 @@ date,place_of_residence,arrivals,year,month,month_name
 2026-06-01,India,105981.0,2026,6,June
 2026-06-01,Australia,95231.0,2026,6,June
 2026-06-01,Malaysia,94549.0,2026,6,June
-2026-06-01,Americas,73490.0,2026,6,June
 2026-06-01,USA,61082.0,2026,6,June
 2026-06-01,Philippines,56904.0,2026,6,June
 2026-06-01,Vietnam,40051.0,2026,6,June
