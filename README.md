@@ -53,3 +53,13 @@ Python, Streamlit, Pandas, Plotly, DuckDB, Jupyter, GitHub, and Scikit-learn.
 ## Project status
 
 In development — Singapore pilot.
+
+## Planned responsible AI component
+
+The next project phase will build a human-validated NLP classifier for broad
+tourism-discussion themes. It will use a lawful, defined sample of public
+discussion, documented annotation rules, privacy safeguards, and held-out model
+evaluation.
+
+The AI component will not classify people, nationalities, or countries. It will
+not make visa, immigration, enforcement, or risk decisions.
