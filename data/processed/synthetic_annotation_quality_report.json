@@ -1,0 +1,15 @@
+{
+  "dataset_type": "Synthetic practice dataset",
+  "purpose": "Annotation and validation practice only. Not real public-platform data and not research evidence.",
+  "document_count": 20,
+  "duplicate_document_ids": 0,
+  "documents_with_no_labels": 0,
+  "label_distribution": {
+    "crowding_access": 5,
+    "visitor_respect_etiquette": 6,
+    "environment_cleanliness": 5,
+    "cost_displacement": 2,
+    "positive_coexistence": 7,
+    "unclear_no_theme": 3
+  }
+}
