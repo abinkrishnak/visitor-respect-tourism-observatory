@@ -1,0 +1,38 @@
+{
+  "dataset": "Singapore monthly international visitor arrivals",
+  "source_table_id": "M550001",
+  "source_agency": "Singapore Tourism Board via SingStat",
+  "task": "Six-month held-out backtest of monthly arrival forecasts",
+  "training_end_date": "2025-12-01",
+  "test_start_date": "2026-01-01",
+  "test_end_date": "2026-06-01",
+  "test_months": 6,
+  "baseline_method": "Same month in previous year",
+  "machine_learning_method": "Random forest regression",
+  "baseline_metrics": {
+    "mae": 108619.83,
+    "rmse": 112666.47,
+    "wape_pct": 7.96
+  },
+  "machine_learning_metrics": {
+    "mae": 114656.14,
+    "rmse": 121177.59,
+    "wape_pct": 8.4
+  },
+  "preferred_method": "seasonal_naive_baseline",
+  "feature_importance": {
+    "lag_1": 0.7604,
+    "rolling_mean_3": 0.1012,
+    "lag_12": 0.0985,
+    "lag_3": 0.0209,
+    "trend_index": 0.0144,
+    "month_sin": 0.0037,
+    "month_cos": 0.001
+  },
+  "limitations": [
+    "Forecasts use historical official arrivals and calendar features only.",
+    "Forecasts do not establish causes or policy effects.",
+    "COVID-era disruption can reduce the reliability of normal seasonal patterns.",
+    "This model is exploratory and not an official tourism forecast."
+  ]
+}
